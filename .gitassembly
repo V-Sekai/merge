@@ -1,0 +1,42 @@
+stage groups-4.x remotes/v-sekai-godot/master
+merge groups-4.x remotes/v-sekai-godot/ninja-ccache
+merge groups-4.x remotes/v-sekai-godot/class-search-crash
+merge groups-4.x remotes/v-sekai-godot/gdscript-crash
+merge groups-4.x remotes/v-sekai-godot/editor-crash
+merge groups-4.x remotes/v-sekai-godot/editorfilesystem_reentrant_scan
+merge groups-4.x remotes/lyuma/node3d_gizmo_crash
+merge groups-4.x remotes/lyuma/editor_normal_priority
+merge groups-4.x remotes/v-sekai-godot/nav-mesh-spam
+merge groups-4.x remotes/briansemrau/texture-delete-update
+merge groups-4.x remotes/v-sekai-godot/3d-audio
+merge groups-4.x remotes/v-sekai-godot/compatibility-classes
+merge groups-4.x remotes/nikitalita/fix-save-as-binary # pr
+merge groups-4.x remotes/v-sekai-godot/import-crash
+merge groups-4.x remotes/briansemrau/threadsafe-drawpute-lists
+merge groups-4.x remotes/v-sekai-godot/roughness-filtering
+merge groups-4.x remotes/v-sekai-godot/better-sdfgi-defaults # Todo: fire 2022-01-16T13:43:41.230-08:00
+merge groups-4.x remotes/v-sekai-godot/add-editor-info # Todo: fire 2022-01-16T14:14:46.611-08:00
+merge groups-4.x remotes/v-sekai-godot/scene-import-fixes # Todo: fire - 2022-01-18T21:23:00-0800
+merge groups-4.x remotes/v-sekai-godot/silence-deps-dot-godot # Todo: fire - 2022-01-20T19:38:58-0800
+merge groups-4.x remotes/v-sekai-godot/quieter-particle-msg # Todo: fire - 2022-01-24T03:22:32-0800
+merge groups-4.x remotes/v-sekai-godot/material_drag_and_drop #pr
+merge groups-4.x remotes/Calinou/light-3d-shadow-blur-auto-bias #pr
+merge groups-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by Saracen 2022-03-06
+# merge groups-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
+merge groups-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
+merge groups-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr
+merge groups-4.x remotes/v-sekai-godot/ok_color # Todo fire - 2022-03-21
+merge groups-4.x remotes/v-sekai-godot/basis-universal-mips
+# merge groups-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
+merge groups-4.x remotes/v-sekai-godot/primitive-indicies
+#merge groups-4.x remotes/techiepriyansh/move-gltf-export-under-scene-menu #pr
+merge groups-4.x remotes/v-sekai-godot/expose-gizmo-functions
+# merge groups-4.x remotes/v-sekai-godot/gltf-extension-usage # Todo: fire - 2022-01-28T23:44:30-0800
+merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upsteram
+merge groups-4.x remotes/v-sekai-godot/fix-cubic-slerp
+merge groups-4.x remotes/v-sekai-godot/scene_scale
+merge groups-4.x remotes/v-sekai-godot/expose_post_popup
+
+stage groups-shared-4.x groups-4.x
+#merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared
+
