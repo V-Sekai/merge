@@ -2,7 +2,7 @@
 
 set -e
 
-ORIGINAL_BRANCH=merge-script-4.x
+ORIGINAL_BRANCH=main
 MERGE_REMOTE=v-sekai-godot
 MERGE_BRANCH=groups-4.x
 MERGE_BRANCH_SHARED=groups-shared-4.x
