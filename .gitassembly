@@ -25,15 +25,15 @@ merge groups-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by Saracen 2
 # merge groups-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
 merge groups-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
 merge groups-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr
-merge groups-4.x remotes/v-sekai-godot/ok_color # Todo fire - 2022-03-21
+# merge groups-4.x remotes/v-sekai-godot/ok_color # Todo fire - 2022-03-21
 merge groups-4.x remotes/v-sekai-godot/basis-universal-mips
 # merge groups-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
 merge groups-4.x remotes/v-sekai-godot/primitive-indicies
 #merge groups-4.x remotes/techiepriyansh/move-gltf-export-under-scene-menu #pr
 merge groups-4.x remotes/v-sekai-godot/expose-gizmo-functions
 # merge groups-4.x remotes/v-sekai-godot/gltf-extension-usage # Todo: fire - 2022-01-28T23:44:30-0800
-merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upsteram
-merge groups-4.x remotes/v-sekai-godot/fix-cubic-slerp
+merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upstream
+# merge groups-4.x remotes/v-sekai-godot/fix-cubic-slerp
 merge groups-4.x remotes/v-sekai-godot/scene_scale
 merge groups-4.x remotes/v-sekai-godot/expose_post_popup
 
