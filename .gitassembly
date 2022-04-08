@@ -33,7 +33,7 @@ merge groups-4.x remotes/v-sekai-godot/expose-gizmo-functions
 # merge groups-4.x remotes/v-sekai-godot/gltf-extension-usage # Todo: fire - 2022-01-28T23:44:30-0800
 merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upstream
 # merge groups-4.x remotes/v-sekai-godot/fix-cubic-slerp
-merge groups-4.x remotes/v-sekai-godot/scene_scale
+# merge groups-4.x remotes/v-sekai-godot/scene_scale # Buggy with blend shapes on test vrms
 merge groups-4.x remotes/v-sekai-godot/expose_post_popup
 
 stage groups-shared-4.x groups-4.x
