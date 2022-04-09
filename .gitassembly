@@ -35,7 +35,7 @@ merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upst
 # merge groups-4.x remotes/v-sekai-godot/fix-cubic-slerp
 # merge groups-4.x remotes/v-sekai-godot/scene_scale # Buggy with blend shapes on test vrms
 merge groups-4.x remotes/v-sekai-godot/expose_post_popup
-merge groups-4.x remotes/reduz/animation-libraries
+# merge groups-4.x remotes/reduz/animation-libraries # not ready yet
 merge groups-4.x remotes/v-sekai-godot/lightmap-errors
 merge groups-4.x remotes/v-sekai-godot/gltf-extension-fixes
 
