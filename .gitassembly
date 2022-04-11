@@ -1,5 +1,5 @@
 stage groups-4.x remotes/v-sekai-godot/master
-merge groups-4.x remotes/v-sekai-godot/ninja-ccache
+# merge groups-4.x remotes/v-sekai-godot/ninja-ccache # breaks switching to doubles
 merge groups-4.x remotes/v-sekai-godot/class-search-crash
 merge groups-4.x remotes/v-sekai-godot/gdscript-crash
 merge groups-4.x remotes/v-sekai-godot/editor-crash
