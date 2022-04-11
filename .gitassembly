@@ -42,6 +42,7 @@ merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-4.x remotes/v-sekai-godot/default_editable_children
 merge groups-4.x remotes/v-sekai-godot/instanced_children_color
 merge groups-4.x remotes/v-sekai-godot/fix_triangle_mesh_selection
+merge groups-4.x remotes/v-sekai-godot/improve_scene_search
 
 stage groups-shared-4.x groups-4.x
 #merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared
