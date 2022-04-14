@@ -1,5 +1,4 @@
 stage groups-4.x remotes/v-sekai-godot/master
-merge groups-4.x remotes/reduz/animation-library-import
 # merge groups-4.x remotes/v-sekai-godot/ninja-ccache # breaks switching to doubles
 merge groups-4.x remotes/v-sekai-godot/class-search-crash
 merge groups-4.x remotes/v-sekai-godot/gdscript-crash
@@ -10,7 +9,7 @@ merge groups-4.x remotes/v-sekai-godot/nav-mesh-spam
 merge groups-4.x remotes/briansemrau/texture-delete-update
 merge groups-4.x remotes/v-sekai-godot/3d-audio
 merge groups-4.x remotes/v-sekai-godot/compatibility-classes
-# merge groups-4.x remotes/nikitalita/fix-save-as-binary # pr (disabled, currently conflicting with master)
+merge groups-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-4.x remotes/v-sekai-godot/import-crash
 merge groups-4.x remotes/briansemrau/threadsafe-drawpute-lists
 merge groups-4.x remotes/v-sekai-godot/roughness-filtering
@@ -35,7 +34,6 @@ merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upst
 # merge groups-4.x remotes/v-sekai-godot/fix-cubic-slerp
 # merge groups-4.x remotes/v-sekai-godot/scene_scale # Buggy with blend shapes on test vrms
 merge groups-4.x remotes/v-sekai-godot/expose_post_popup
-# merge groups-4.x remotes/reduz/animation-libraries # not ready yet
 merge groups-4.x remotes/v-sekai-godot/lightmap-errors
 merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-4.x remotes/v-sekai-godot/default_editable_children
