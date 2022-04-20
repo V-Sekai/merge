@@ -35,7 +35,7 @@ merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upst
 # merge groups-4.x remotes/v-sekai-godot/scene_scale # Buggy with blend shapes on test vrms
 merge groups-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-4.x remotes/v-sekai-godot/lightmap-errors
-merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
+# merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-4.x remotes/v-sekai-godot/default_editable_children
 merge groups-4.x remotes/v-sekai-godot/instanced_children_color
 merge groups-4.x remotes/v-sekai-godot/fix_triangle_mesh_selection
