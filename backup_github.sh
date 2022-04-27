@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Declare an array of string with type
-declare -a StringArray=("v-sekai-fire" "v-sekai" "godot-extended-libraries" "fire" "lyuma" )
+declare -a StringArray=("v-sekai-fire" "v-sekai" "godot-extended-libraries" "fire" "lyuma" "SaracenOne" )
 
 export BACKUP_GITHUB_DATE=`date --iso=min --utc`
 
