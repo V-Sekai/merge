@@ -35,7 +35,7 @@ merge groups-4.x remotes/v-sekai-godot/expose-gizmo-functions
 # merge groups-4.x remotes/v-sekai-godot/scene_scale # Buggy with blend shapes on test vrms
 merge groups-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-4.x remotes/v-sekai-godot/lightmap-errors
-# merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
+merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-4.x remotes/v-sekai-godot/default_editable_children
 merge groups-4.x remotes/v-sekai-godot/instanced_children_color
 merge groups-4.x remotes/v-sekai-godot/fix_triangle_mesh_selection
@@ -46,6 +46,12 @@ merge groups-4.x remotes/v-sekai-godot/node_3d_gizmo_fix_crash_fix_combo
 #merge groups-4.x remotes/bruvzg/label3d
 merge groups-4.x remotes/v-sekai-godot/animation-library-gltf
 merge groups-4.x remotes/tokage/fix-root-motion-rotation-init
+merge groups-4.x remotes/v-sekai/disable_foreign_resource_edits
+merge groups-4.x remotes/v-sekai/disable_data_generation_on_foreign_resources
+merge groups-4.x remotes/v-sekai/disable_foreign_polygon_edits
+merge groups-4.x remotes/v-sekai/disable_sprite_conversion_on_foreign_nodes
+merge groups-4.x remotes/v-sekai/fix_ownership_of_created_nodes
+merge groups-4.x remotes/v-sekai/scene_tree_disable_drop_above_root
 
 stage groups-shared-4.x groups-4.x
 merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared
