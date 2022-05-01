@@ -4,9 +4,7 @@ merge groups-4.x remotes/v-sekai-godot/class-search-crash
 merge groups-4.x remotes/v-sekai-godot/gdscript-crash
 merge groups-4.x remotes/v-sekai-godot/editor-crash
 merge groups-4.x remotes/v-sekai-godot/editorfilesystem_reentrant_scan
-merge groups-4.x remotes/lyuma/editor_normal_priority
 merge groups-4.x remotes/v-sekai-godot/nav-mesh-spam
-merge groups-4.x remotes/briansemrau/texture-delete-update
 merge groups-4.x remotes/v-sekai-godot/3d-audio
 merge groups-4.x remotes/v-sekai-godot/compatibility-classes
 merge groups-4.x remotes/nikitalita/fix-save-as-binary
@@ -27,7 +25,6 @@ merge groups-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr
 # merge groups-4.x remotes/v-sekai-godot/ok_color # Todo fire - 2022-03-21
 merge groups-4.x remotes/v-sekai-godot/basis-universal-mips
 # merge groups-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
-#merge groups-4.x remotes/techiepriyansh/move-gltf-export-under-scene-menu #pr
 merge groups-4.x remotes/v-sekai-godot/expose-gizmo-functions
 # merge groups-4.x remotes/v-sekai-godot/gltf-extension-usage # Todo: fire - 2022-01-28T23:44:30-0800
 # merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upstream
@@ -38,14 +35,10 @@ merge groups-4.x remotes/v-sekai-godot/lightmap-errors
 merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-4.x remotes/v-sekai-godot/default_editable_children
 merge groups-4.x remotes/v-sekai-godot/instanced_children_color
-merge groups-4.x remotes/v-sekai-godot/fix_triangle_mesh_selection
 merge groups-4.x remotes/v-sekai-godot/improve_scene_search
 merge groups-4.x remotes/v-sekai-godot/make_local_recursively
 merge groups-4.x remotes/v-sekai-godot/node_3d_gizmo_fix_crash_fix_combo
 #merge groups-4.x remotes/v-sekai-godot/gltf-extension-fixes # delay
-#merge groups-4.x remotes/bruvzg/label3d
-merge groups-4.x remotes/v-sekai-godot/animation-library-gltf
-merge groups-4.x remotes/tokage/fix-root-motion-rotation-init
 merge groups-4.x remotes/v-sekai-godot/disable_foreign_resource_edits
 merge groups-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resources
 merge groups-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
