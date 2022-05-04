@@ -45,7 +45,7 @@ merge groups-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
 merge groups-4.x remotes/v-sekai-godot/disable_sprite_conversion_on_foreign_nodes
 merge groups-4.x remotes/v-sekai-godot/fix_ownership_of_created_nodes
 merge groups-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
-#merge groups-4.x remotes/v-sekai-godot/animtree-advance-expressions
+merge groups-4.x remotes/v-sekai-godot/animtree-advance-expressions
 merge groups-4.x remotes/v-sekai-godot/ccache
 merge groups-4.x remotes/v-sekai-godot/animation_editor_read_only
 merge groups-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
