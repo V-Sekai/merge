@@ -52,6 +52,7 @@ merge groups-4.x remotes/v-sekai-godot/animation_change_callback_fix
 merge groups-4.x remotes/v-sekai-godot/scene_tree_prompt_fix
 merge groups-4.x remotes/v-sekai-godot/fix_track_add_error
 merge groups-4.x remotes/v-sekai-godot/silence_track_delete_error
+merge groups-4.x remotes/v-sekai-godot/make_unique_recursively
 
 stage groups-shared-4.x groups-4.x
 merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared
