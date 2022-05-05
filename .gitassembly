@@ -49,6 +49,7 @@ merge groups-4.x remotes/v-sekai-godot/animtree-advance-expressions
 merge groups-4.x remotes/v-sekai-godot/ccache
 merge groups-4.x remotes/v-sekai-godot/animation_editor_read_only
 merge groups-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
+merge groups-4.x remotes/v-sekai-godot/animation_change_callback_fix
 
 stage groups-shared-4.x groups-4.x
 merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared
