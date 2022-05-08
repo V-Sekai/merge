@@ -55,6 +55,7 @@ merge groups-4.x remotes/v-sekai-godot/silence_track_delete_error
 merge groups-4.x remotes/v-sekai-godot/make_unique_recursively
 merge groups-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 merge groups-4.x remotes/v-sekai-godot/disable_foreign_scene_replicator_config
+merge groups-4.x remotes/v-sekai-godot/tileset_editor_selection
 
 stage groups-shared-4.x groups-4.x
 merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared
