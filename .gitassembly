@@ -56,6 +56,7 @@ merge groups-4.x remotes/v-sekai-godot/make_unique_recursively
 merge groups-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 merge groups-4.x remotes/v-sekai-godot/disable_foreign_scene_replicator_config
 merge groups-4.x remotes/v-sekai-godot/tileset_editor_selection
+merge groups-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes
 
 stage groups-shared-4.x groups-4.x
 merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared
