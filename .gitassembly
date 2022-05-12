@@ -59,6 +59,7 @@ merge groups-4.x remotes/v-sekai-godot/tileset_editor_selection
 merge groups-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes
 merge groups-4.x remotes/v-sekai-godot/physics_bone_joint_fix
 merge groups-4.x remotes/v-sekai-godot/bone-attach-connect
+merge groups-4.x remotes/v-sekai-godot/maybe-uninitialized
 
 stage groups-shared-4.x groups-4.x
 #merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
