@@ -5,7 +5,7 @@ merge groups-4.x remotes/v-sekai-godot/gdscript-crash
 merge groups-4.x remotes/v-sekai-godot/editor-crash
 merge groups-4.x remotes/v-sekai-godot/editorfilesystem_reentrant_scan
 merge groups-4.x remotes/v-sekai-godot/nav-mesh-spam
-merge groups-4.x remotes/v-sekai-godot/3d-audio
+# merge groups-4.x remotes/v-sekai-godot/3d-audio
 merge groups-4.x remotes/v-sekai-godot/compatibility-classes
 merge groups-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-4.x remotes/v-sekai-godot/import-crash
@@ -58,6 +58,9 @@ merge groups-4.x remotes/v-sekai-godot/disable_foreign_scene_replicator_config
 merge groups-4.x remotes/v-sekai-godot/tileset_editor_selection
 merge groups-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes
 merge groups-4.x remotes/v-sekai-godot/physics_bone_joint_fix
+merge groups-4.x remotes/v-sekai-godot/bone-attach-connect
+merge groups-4.x remotes/v-sekai-godot/maybe-uninitialized
+merge groups-4.x remotes/Geometror/improve-vs-1
 merge groups-4.x remotes/v-sekai-godot/editable_children_toggle_improvements
 
 stage groups-shared-4.x groups-4.x
