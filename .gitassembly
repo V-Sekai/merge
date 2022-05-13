@@ -64,6 +64,7 @@ merge groups-4.x remotes/v-sekai-godot/editable_children_toggle_improvements
 merge groups-4.x remotes/bruvzg/textmesh
 merge groups-4.x remotes/YakoYakoYokuYoku/traybroker
 merge groups-4.x remotes/Calinou/viewport-add-lighting-debug-draw-mode
+merge groups-4.x remotes/v-sekai-import/reimport_files
 
 stage groups-shared-4.x groups-4.x
 #merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
