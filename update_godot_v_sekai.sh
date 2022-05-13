@@ -65,6 +65,7 @@ add_remote adamscott https://github.com/adamscott/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
 add_remote YakoYakoYokuYoku https://github.com/YakoYakoYokuYoku/godot
 add_remote WindyDarian https://github.com/WindyDarian/godot/
+add_remote vnen https://github.com/vnen/godot/
 #
 
 
