@@ -63,7 +63,7 @@ add_remote Zylann https://github.com/Zylann/godot.git
 add_remote techiepriyansh https://github.com/techiepriyansh/godot.git
 add_remote adamscott https://github.com/adamscott/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
-add_remote YakoYakoYokuYoku https://github.com/YakoYakoYokuYoku
+add_remote YakoYakoYokuYoku https://github.com/YakoYakoYokuYoku/godot
 add_remote WindyDarian https://github.com/WindyDarian/godot/
 #
 
