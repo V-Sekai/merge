@@ -64,7 +64,6 @@ merge groups-4.x remotes/v-sekai-godot/editable_children_toggle_improvements
 merge groups-4.x remotes/bruvzg/textmesh
 merge groups-4.x remotes/v-sekai-godot/reimport_files
 merge groups-4.x remotes/WindyDarian/state_machine_transition
-merge groups-4.x remotes/vnen/gdscript-await-stack-fix 
 merge groups-4.x remotes/BastiaanOlij/fix_openxr_initialisation
 
 #stage groups-shared-4.x groups-4.x
