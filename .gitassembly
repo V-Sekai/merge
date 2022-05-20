@@ -66,6 +66,7 @@ merge groups-4.x remotes/v-sekai-godot/reimport_files
 merge groups-4.x remotes/WindyDarian/state_machine_transition
 merge groups-4.x remotes/BastiaanOlij/fix_openxr_initialisation
 merge groups-4.x remotes/v-sekai-godot/disable-inspector-folding
+merge groups-4.x remotes/v-sekai-godot/empty-space-collide-crash
 
 #stage groups-shared-4.x groups-4.x
 #merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
