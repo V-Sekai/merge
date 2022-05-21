@@ -9,7 +9,6 @@ merge groups-4.x remotes/v-sekai-godot/3d-audio
 merge groups-4.x remotes/v-sekai-godot/compatibility-classes
 merge groups-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-4.x remotes/v-sekai-godot/import-crash
-merge groups-4.x remotes/briansemrau/threadsafe-drawpute-lists
 merge groups-4.x remotes/v-sekai-godot/roughness-filtering
 merge groups-4.x remotes/v-sekai-godot/better-sdfgi-defaults # Todo: fire 2022-01-16T13:43:41.230-08:00
 merge groups-4.x remotes/v-sekai-godot/add-editor-info # Todo: fire 2022-01-16T14:14:46.611-08:00
