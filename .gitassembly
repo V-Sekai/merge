@@ -30,7 +30,7 @@ merge groups-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-4.x remotes/v-sekai-godot/lightmap-errors
 merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-4.x remotes/v-sekai-godot/default_editable_children
-merge groups-4.x remotes/v-sekai-godot/improve_scene_search
+# merge groups-4.x remotes/v-sekai-godot/improve_scene_search
 merge groups-4.x remotes/v-sekai-godot/make_local_recursively
 merge groups-4.x remotes/v-sekai-godot/node_3d_gizmo_fix_crash_fix_combo
 merge groups-4.x remotes/v-sekai-godot/disable_foreign_resource_edits
