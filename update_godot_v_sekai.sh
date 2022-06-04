@@ -67,6 +67,7 @@ add_remote YakoYakoYokuYoku https://github.com/YakoYakoYokuYoku/godot
 add_remote WindyDarian https://github.com/WindyDarian/godot/
 add_remote vnen https://github.com/vnen/godot/
 add_remote snailrhymer https://github.com/snailrhymer/godot
+add_remote KoBeWi https://github.com/KoBeWi/godot.git
 #
 
 
