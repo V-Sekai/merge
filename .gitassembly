@@ -63,7 +63,8 @@ merge groups-4.x remotes/v-sekai-godot/disable-inspector-folding
 merge groups-4.x remotes/v-sekai-godot/empty-space-collide-crash
 merge groups-4.x remotes/v-sekai-godot/request-gizmo-immediately
 merge groups-4.x remotes/bruvzg/libbacktrce
-merge groups-4.x remotes/v-sekai-godot/update_on_reimport 
+merge groups-4.x remotes/v-sekai-godot/update_on_reimport
+merge groups-4.x remotes/v-sekai-godot/scene_scale
 # merge groups-4.x remotes/v-sekai-godot/csg-manifold-08 # Needs the new feature to stabilize.
 
 #stage groups-shared-4.x groups-4.x
