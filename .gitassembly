@@ -65,7 +65,7 @@ merge groups-4.x remotes/v-sekai-godot/request-gizmo-immediately
 merge groups-4.x remotes/bruvzg/libbacktrce
 merge groups-4.x remotes/v-sekai-godot/update_on_reimport
 merge groups-4.x remotes/v-sekai-godot/scene_scale
-merge groups-4.x remotes/v-sekai-godot/hide-csg
+merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
 merge groups-4.x remotes/v-sekai-godot/surface-tool-custom
 
 #stage groups-shared-4.x groups-4.x
