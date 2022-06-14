@@ -38,7 +38,7 @@ merge groups-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resour
 merge groups-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
 merge groups-4.x remotes/v-sekai-godot/disable_sprite_conversion_on_foreign_nodes
 merge groups-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
-# merge groups-4.x remotes/v-sekai-godot/animtree-advance-expressions # Restore soon saracen!
+merge groups-4.x remotes/v-sekai-godot/animtree-advance-expressions
 merge groups-4.x remotes/v-sekai-godot/ccache
 # merge groups-4.x remotes/v-sekai-godot/animation_editor_read_only # Needs to rebase
 merge groups-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
