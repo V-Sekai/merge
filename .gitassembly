@@ -68,6 +68,10 @@ merge groups-4.x remotes/v-sekai-godot/scene_scale
 merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
 merge groups-4.x remotes/v-sekai-godot/surface-tool-custom
 merge groups-4.x remotes/v-sekai-godot/openxr-angular-velocity
+merge groups-4.x remotes/BastiaanOlij/split_gi_effects
+merge groups-4.x remotes/v-sekai-godot/eye_matrix_shader
+merge groups-4.x remotes/v-sekai-godot/stereo_screenspace_fixes
+merge groups-4.x remotes/v-sekai-godot/multiview_depth_copy
 
 #stage groups-shared-4.x groups-4.x
 #merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
