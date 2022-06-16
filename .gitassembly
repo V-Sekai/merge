@@ -3,7 +3,6 @@ merge groups-4.x remotes/v-sekai-godot/class-search-crash
 merge groups-4.x remotes/v-sekai-godot/gdscript-crash
 merge groups-4.x remotes/v-sekai-godot/editor-crash
 merge groups-4.x remotes/v-sekai-godot/editorfilesystem_reentrant_scan
-merge groups-4.x remotes/v-sekai-godot/nav-mesh-spam
 merge groups-4.x remotes/v-sekai-godot/compatibility-classes
 merge groups-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-4.x remotes/v-sekai-godot/import-crash
@@ -67,7 +66,6 @@ merge groups-4.x remotes/v-sekai-godot/update_on_reimport
 merge groups-4.x remotes/v-sekai-godot/scene_scale
 merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
 merge groups-4.x remotes/v-sekai-godot/surface-tool-custom
-merge groups-4.x remotes/v-sekai-godot/openxr-angular-velocity
 merge groups-4.x remotes/BastiaanOlij/split_gi_effects
 merge groups-4.x remotes/v-sekai-godot/eye_matrix_shader
 merge groups-4.x remotes/v-sekai-godot/stereo_screenspace_fixes
