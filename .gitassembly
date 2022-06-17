@@ -65,7 +65,6 @@ merge groups-4.x remotes/bruvzg/libbacktrce
 merge groups-4.x remotes/v-sekai-godot/update_on_reimport
 merge groups-4.x remotes/v-sekai-godot/scene_scale
 merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
-merge groups-4.x remotes/v-sekai-godot/surface-tool-custom
 merge groups-4.x remotes/BastiaanOlij/split_gi_effects
 merge groups-4.x remotes/v-sekai-godot/eye_matrix_shader
 merge groups-4.x remotes/v-sekai-godot/stereo_screenspace_fixes
