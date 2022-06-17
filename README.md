@@ -1,6 +1,6 @@
 # README
 
-Tested on Rocky Linux and Fedora 33.
+Tested on msys2 Windows 11, Rocky Linux and Fedora 36.
 
 Ensure git email and name are setup.
 
