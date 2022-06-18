@@ -65,7 +65,7 @@ merge groups-4.x remotes/bruvzg/libbacktrce
 merge groups-4.x remotes/v-sekai-godot/update_on_reimport
 merge groups-4.x remotes/v-sekai-godot/scene_scale
 merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
-merge groups-4.x remotes/lyuma/temp-xr-fixes
+# merge groups-4.x remotes/lyuma/temp-xr-fixes
 merge groups-4.x remotes/v-sekai-godot/animation_player_silence
 merge groups-4.x remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-4.x remotes/v-sekai-godot/3d-audio
