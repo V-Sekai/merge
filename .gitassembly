@@ -69,7 +69,6 @@ merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
 merge groups-4.x remotes/v-sekai-godot/animation_player_silence
 merge groups-4.x remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-4.x remotes/v-sekai-godot/3d-audio
-merge groups-4.x remotes/reduz/implement-movie-writer
 
 #stage groups-shared-4.x groups-4.x
 #merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
