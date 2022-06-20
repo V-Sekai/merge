@@ -18,13 +18,11 @@ merge groups-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by Saracen 2
 # merge groups-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
 merge groups-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
 merge groups-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr
-# merge groups-4.x remotes/v-sekai-godot/ok_color # Todo fire - 2022-03-21
 merge groups-4.x remotes/v-sekai-godot/basis-universal-mips
 # merge groups-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
 merge groups-4.x remotes/v-sekai-godot/expose-gizmo-functions
 # merge groups-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upstream
 # merge groups-4.x remotes/v-sekai-godot/fix-cubic-slerp
-# merge groups-4.x remotes/v-sekai-godot/scene_scale # Buggy with blend shapes on test vrms
 merge groups-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-4.x remotes/v-sekai-godot/lightmap-errors
 merge groups-4.x remotes/v-sekai-godot/instance_editable_children_selection
@@ -64,7 +62,7 @@ merge groups-4.x remotes/bruvzg/libbacktrce
 merge groups-4.x remotes/v-sekai-godot/update_on_reimport
 merge groups-4.x remotes/v-sekai-godot/scene_scale
 merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
-# merge groups-4.x remotes/lyuma/temp-xr-fixes
+merge groups-4.x remotes/lyuma/temp-xr-fixes
 merge groups-4.x remotes/v-sekai-godot/animation_player_silence
 merge groups-4.x remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-4.x remotes/v-sekai-godot/3d-audio
