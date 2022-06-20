@@ -37,7 +37,6 @@ merge groups-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resour
 merge groups-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
 merge groups-4.x remotes/v-sekai-godot/disable_sprite_conversion_on_foreign_nodes
 merge groups-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
-merge groups-4.x remotes/v-sekai-godot/animtree-advance-expressions
 merge groups-4.x remotes/v-sekai-godot/ccache
 # merge groups-4.x remotes/v-sekai-godot/animation_editor_read_only # Needs to rebase
 merge groups-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
@@ -69,6 +68,7 @@ merge groups-4.x remotes/v-sekai-godot/csg-manifold-07
 merge groups-4.x remotes/v-sekai-godot/animation_player_silence
 merge groups-4.x remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-4.x remotes/v-sekai-godot/3d-audio
-
+# merge groups-4.x remotes/v-sekai-godot/animtree-advance-expressions
+merge groups-4.x remotes/v-sekai-godot/advanced-expression-movies # Combined advanced expression and movies
 #stage groups-shared-4.x groups-4.x
 #merge groups-shared-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
