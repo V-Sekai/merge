@@ -39,7 +39,7 @@ merge groups-4.x remotes/v-sekai-godot/ccache
 # merge groups-4.x remotes/v-sekai-godot/animation_editor_read_only # Needs to rebase
 merge groups-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
 merge groups-4.x remotes/v-sekai-godot/animation_change_callback_fix
-merge groups-4.x remotes/v-sekai-godot/scene_tree_prompt_fix
+# merge groups-4.x remotes/v-sekai-godot/scene_tree_prompt_fix # Needs a rebase
 merge groups-4.x remotes/v-sekai-godot/fix_track_add_error
 merge groups-4.x remotes/v-sekai-godot/silence_track_delete_error
 merge groups-4.x remotes/v-sekai-godot/make_unique_recursively
