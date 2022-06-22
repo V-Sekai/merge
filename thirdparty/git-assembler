@@ -6,6 +6,7 @@ import subprocess as sp
 import argparse
 import os, sys
 import shutil
+import shlex
 import json
 from enum import Enum, IntEnum
 
@@ -46,7 +47,7 @@ def assembly_path(toplevel_dir, common_dir):
     if os.path.exists(path):
         return path
     path = os.path.join(toplevel_dir, '.gitassembly')
-    if os.path.exists(path):
+    if os.path.isfile(path):
         return path
     return None
 
@@ -133,6 +134,62 @@ def parse_assembly(path):
 
     return nodes, settings
 
+
+def read_git_config():
+    """Read configuration of interest either from git config or environment variables."""
+    # The variable ``keys`` contains the configuration necessary for reading
+    # the git config. Each entry is a dict with the following keys:
+    #   - key: the key in the git configuration.
+    #   - type: (optional) the type (git-config type) expected for this key's
+    #     value. The type "bool" is converted to a Python bool.
+    #   - default: the default value for this key.
+    #   - env: (optional) name of the environment variable that overrides this
+    #     config.
+    keys = (
+        {
+            'key': 'assembler.mergeff',
+            'type': 'bool',
+            'default': 'true',
+            'env': 'GIT_ASSEMBLER_MERGEFF',
+        },
+    )
+    conf = {}
+    for entry in keys:
+        try:
+            type_flags = ('--type', entry['type'])
+        except AttributeError:
+            type_flags = tuple()
+
+        if 'env' in entry and entry['env'] in os.environ:
+            try:
+                line = sp.check_output(['git', 'config',
+                                        '--file', os.devnull,
+                                        *type_flags,
+                                        '--default', os.environ[entry['env']],
+                                        entry['key'],
+                                       ])
+            except sp.CalledProcessError as e:
+                error('failed to parse value from env variable {}'.format(entry['env']))
+                return None
+            value = line.decode(sys.getfilesystemencoding()).rstrip()
+        else:
+            try:
+                line = sp.check_output(['git', 'config',
+                                        *type_flags,
+                                        '--default', entry['default'],
+                                        entry['key'],
+                                       ])
+            except sp.CalledProcessError as e:
+                error('failed to parse value for config {}'.format(entry['key']))
+                return None
+            value = line.decode(sys.getfilesystemencoding()).rstrip()
+
+        if 'type' in entry:
+            if entry['type'] == 'bool':
+                value = value == 'true'
+
+        conf[entry['key']] = value
+    return conf
 
 class BranchType(Enum):
     BRANCH = 0 # regular branch (no base)
@@ -238,8 +295,7 @@ class Ansi:
 
 def color_node(node):
     name = node['name']
-    if COLOR_MODE == False or \
-       (COLOR_MODE is None and not sys.stdout.isatty()):
+    if COLOR_MODE != True:
         return name
     elif node['state']['missing']:
         return Ansi.RED + name + Ansi.RESET
@@ -476,7 +532,7 @@ def switch_to_branch(name, *git_flags):
     return proc.returncode, stderr
 
 
-def update_node(node, state, dry_run):
+def update_node(node, state, dry_run, merge_ff):
     if not node['state']['dirty']:
         return True
 
@@ -564,7 +620,8 @@ def update_node(node, state, dry_run):
 
         log(logging.INFO, 'merging {} into {}'.format(color_node(dep), color_node(node)))
         if not dry_run:
-            proc = sp.run(['git', 'merge', '-q', '--rerere-autoupdate', '--no-edit', dep['name']])
+            ff = '--ff' if merge_ff else '--no-ff'
+            proc = sp.run(['git', 'merge', ff, '-q', '--rerere-autoupdate', '--no-edit', dep['name']])
             if proc.returncode == 1:
                 # directly attempt to autocommit in case rerere was successful
                 proc = sp.run(['git', 'commit', '-q', '--no-edit'], stderr=sp.DEVNULL)
@@ -589,10 +646,18 @@ def check_pending(git_dir):
     return False
 
 
+def edit(path):
+    editor = os.environ.get('VISUAL')
+    if editor is None:
+        editor = os.environ.get('EDITOR', 'vi')
+    return os.system(editor + ' ' + shlex.quote(path))
+
+
 class ExitStatus(IntEnum):
-    SUCCESS = 0
-    ERROR   = 1
-    CONFIG  = 2
+    SUCCESS   = 0
+    ERROR     = 1
+    CONFIG    = 2
+    GITCONFIG = 3
 
 def main(argv):
     ap = argparse.ArgumentParser(description=APP_DSC)
@@ -604,8 +669,11 @@ def main(argv):
                     help='recreate base branches (implies -c, destructive!)')
     ap.add_argument('-n', '--dry-run', action='store_true',
                     help='show what assemble would do')
-    ap.add_argument('-a', '--assemble', action='store_true',
-                    help='assemble the target branches')
+    g = ap.add_mutually_exclusive_group()
+    g.add_argument('-a', '--assemble', action='store_true',
+                   help='assemble the target branches')
+    g.add_argument('-e', '--edit', action='store_true',
+                   help='spawn an editor on the current assembly file')
     ap.add_argument('-v', '--verbose', default=0, action='count',
                     help='increase verbosity')
     ap.add_argument('--version', action='version', version=APP_VER)
@@ -627,8 +695,12 @@ def main(argv):
     global COLOR_MODE
     if args.color == 'always':
         COLOR_MODE = True
-    elif args.color == 'never':
+    elif args.color == 'never' or \
+         'NO_COLOR' in os.environ or \
+         os.environ.get('TERM', 'dumb') == 'dumb':
         COLOR_MODE = False
+    else:
+        COLOR_MODE = sys.stdout.isatty()
 
     # repository paths
     toplevel_dir = repo_toplevel()
@@ -649,6 +721,15 @@ def main(argv):
             return ExitStatus.CONFIG
         path = os.path.relpath(path)
         debug('reading instructions from {}'.format(path))
+
+    if args.edit:
+        if edit(path):
+            return ExitStatus.ERROR
+
+    # read configuration
+    git_conf = read_git_config()
+    if git_conf is None:
+        return ExitStatus.GITCONFIG
 
     # build the list of nodes and resulting graph
     res = parse_assembly(path)
@@ -713,7 +794,7 @@ def main(argv):
     for node in ordered_nodes:
         state['last_msg'] = None
         state['last_err'] = None
-        if not update_node(node, state, args.dry_run):
+        if not update_node(node, state, args.dry_run, git_conf['assembler.mergeff']):
             if not args.dry_run:
                 save_state(git_dir, state)
             if state['last_msg'] is not None:
