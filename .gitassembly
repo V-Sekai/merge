@@ -53,7 +53,6 @@ merge groups-4.x remotes/Geometror/improve-vs-1
 merge groups-4.x remotes/v-sekai-godot/editable_children_toggle_improvements
 merge groups-4.x remotes/v-sekai-godot/reimport_files
 merge groups-4.x remotes/WindyDarian/state_machine_transition
-merge groups-4.x remotes/BastiaanOlij/fix_openxr_initialisation_2
 merge groups-4.x remotes/v-sekai-godot/disable-inspector-folding
 merge groups-4.x remotes/v-sekai-godot/empty-space-collide-crash
 merge groups-4.x remotes/v-sekai-godot/request-gizmo-immediately
