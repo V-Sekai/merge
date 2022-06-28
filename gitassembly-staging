@@ -66,3 +66,4 @@ merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
 #merge groups-staging-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
+merge groups-staging-4.x remotes/v-sekai-godot/gltf-binary-img-compression
