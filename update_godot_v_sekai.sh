@@ -39,6 +39,7 @@ add_remote ()
 }
 
 #
+add_remote godotengine https://github.com/godotengine/godot
 add_remote SaracenOne https://github.com/SaracenOne/godot
 add_remote lyuma https://github.com/lyuma/godot
 add_remote fire https://github.com/fire/godot
