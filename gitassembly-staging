@@ -18,7 +18,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by S
 # merge groups-staging-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
 merge groups-staging-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
 merge groups-staging-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr
-merge groups-staging-4.x remotes/v-sekai-godot/basis-universal-mips
 # merge groups-staging-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
 merge groups-staging-4.x remotes/v-sekai-godot/expose-gizmo-functions
 # merge groups-staging-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upstream
@@ -66,4 +65,5 @@ merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
 #merge groups-staging-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
+merge groups-staging-4.x remotes/v-sekai-godot/basis-universal-mips
 merge groups-staging-4.x remotes/v-sekai-godot/gltf-binary-img-compression
