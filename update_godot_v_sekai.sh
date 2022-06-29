@@ -100,8 +100,6 @@ has_changes=0
 git diff --quiet HEAD || has_changes=1
 git stash
 merge_branch
-#export MERGE_BRANCH=$MERGE_BRANCH_SHARED
-#merge_branch
 echo -e "ALL DONE. ----------------------------"
 if [[ $has_changes -ne 0 ]]; then
 	echo "Note that any uncommitted changes to the merge script may have been stashed. Run"
