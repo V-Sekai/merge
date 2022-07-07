@@ -69,6 +69,7 @@ add_remote vnen https://github.com/vnen/godot/
 add_remote snailrhymer https://github.com/snailrhymer/godot
 add_remote KoBeWi https://github.com/KoBeWi/godot.git
 add_remote Shnazzy https://github.com/Shnazzy/godot.git
+add_remote Rindbee https://github.com/Rindbee/godot.git
 #
 
 
