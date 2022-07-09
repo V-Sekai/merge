@@ -20,7 +20,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-staging-4.x remotes/v-sekai-godot/default_editable_children
 merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
-merge groups-staging-4.x remotes/v-sekai-godot/node_3d_gizmo_fix_crash_fix_combo
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_resource_edits
 merge groups-staging-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resources
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
