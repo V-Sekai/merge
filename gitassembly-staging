@@ -10,22 +10,15 @@ merge groups-staging-4.x remotes/v-sekai-godot/roughness-filtering
 merge groups-staging-4.x remotes/v-sekai-godot/better-sdfgi-defaults # Todo: fire 2022-01-16T13:43:41.230-08:00
 merge groups-staging-4.x remotes/v-sekai-godot/add-editor-info # Todo: fire 2022-01-16T14:14:46.611-08:00
 merge groups-staging-4.x remotes/v-sekai-godot/scene-import-fixes # Todo: fire - 2022-01-18T21:23:00-0800
-# merge groups-staging-4.x remotes/v-sekai-godot/silence-deps-dot-godot # Todo: fire - 2022-01-20T19:38:58-0800 # Broke
 merge groups-staging-4.x remotes/v-sekai-godot/quieter-particle-msg # Todo: fire - 2022-01-24T03:22:32-0800
 merge groups-staging-4.x remotes/v-sekai-godot/material_drag_and_drop #pr
-# merge groups-staging-4.x remotes/Calinou/light-3d-shadow-blur-auto-bias #pr
 merge groups-staging-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by Saracen 2022-03-06
-# merge groups-staging-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
 merge groups-staging-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
 merge groups-staging-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr
-# merge groups-staging-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
 merge groups-staging-4.x remotes/v-sekai-godot/expose-gizmo-functions
-# merge groups-staging-4.x remotes/v-sekai-godot/invert_roughness # needs proposal to upstream
-# merge groups-staging-4.x remotes/v-sekai-godot/fix-cubic-slerp
 merge groups-staging-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-staging-4.x remotes/v-sekai-godot/default_editable_children
-# merge groups-staging-4.x remotes/v-sekai-godot/improve_scene_search
 merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
 merge groups-staging-4.x remotes/v-sekai-godot/node_3d_gizmo_fix_crash_fix_combo
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_resource_edits
@@ -34,10 +27,8 @@ merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
 merge groups-staging-4.x remotes/v-sekai-godot/disable_sprite_conversion_on_foreign_nodes
 merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
 merge groups-staging-4.x remotes/v-sekai-godot/ccache
-# merge groups-staging-4.x remotes/v-sekai-godot/animation_editor_read_only # Needs to rebase
 merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
 merge groups-staging-4.x remotes/v-sekai-godot/animation_change_callback_fix
-# merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_prompt_fix # Needs a rebase
 merge groups-staging-4.x remotes/v-sekai-godot/fix_track_add_error
 merge groups-staging-4.x remotes/v-sekai-godot/silence_track_delete_error
 merge groups-staging-4.x remotes/v-sekai-godot/make_unique_recursively
@@ -58,15 +49,21 @@ merge groups-staging-4.x remotes/v-sekai-godot/request-gizmo-immediately
 merge groups-staging-4.x remotes/bruvzg/libbacktrce
 merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport
 merge groups-staging-4.x remotes/v-sekai-godot/scene_scale
-# merge groups-staging-4.x remotes/lyuma/temp-xr-fixes # merge conflict
 merge groups-staging-4.x remotes/v-sekai-godot/animation_player_silence
 merge groups-staging-4.x remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
-#merge groups-staging-4.x remotes/v-sekai-godot/elixir-shared # Disabled due to conflict
 merge groups-staging-4.x remotes/v-sekai-godot/basis-universal-mips
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
 merge groups-staging-4.x remotes/aaronfranke/protocol-registration
 merge groups-staging-4.x remotes/v-sekai-godot/disable-xr
 merge groups-staging-4.x remotes/Rindbee/make-blend-import-preview-visible
+# merge groups-staging-4.x remotes/v-sekai-godot/silence-deps-dot-godot # Todo: fire - 2022-01-20T19:38:58-0800 # Broke
+# merge groups-staging-4.x remotes/Calinou/light-3d-shadow-blur-auto-bias #pr
+# merge groups-staging-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
+# merge groups-staging-4.x remotes/v-sekai-godot/fix-cubic-slerp
+# merge groups-staging-4.x remotes/v-sekai-godot/improve_scene_search
+# merge groups-staging-4.x remotes/v-sekai-godot/animation_editor_read_only # Needs to rebase
+# merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_prompt_fix # Needs a rebase
+# merge groups-staging-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
