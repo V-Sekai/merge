@@ -53,7 +53,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
-merge groups-staging-4.x remotes/v-sekai-godot/basis-universal-mips
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
 merge groups-staging-4.x remotes/aaronfranke/protocol-registration
 # merge groups-staging-4.x remotes/v-sekai-godot/silence-deps-dot-godot # Todo: fire - 2022-01-20T19:38:58-0800 # Broke
@@ -63,4 +62,5 @@ merge groups-staging-4.x remotes/aaronfranke/protocol-registration
 # merge groups-staging-4.x remotes/v-sekai-godot/improve_scene_search
 # merge groups-staging-4.x remotes/v-sekai-godot/animation_editor_read_only # Needs to rebase
 # merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_prompt_fix # Needs a rebase
+# merge groups-staging-4.x remotes/v-sekai-godot/basis-universal-mips # Slow loads?
 # merge groups-staging-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
