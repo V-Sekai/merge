@@ -54,7 +54,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
-merge groups-staging-4.x remotes/aaronfranke/protocol-registration
+# merge groups-staging-4.x remotes/aaronfranke/protocol-registration # Breakage
 merge groups-staging-4.x remotes/v-sekai-godot/animation_editor_read_only
 merge groups-staging-4.x remotes/tokage/normalize-position-track
 # merge groups-staging-4.x remotes/v-sekai-godot/silence-deps-dot-godot # Todo: fire - 2022-01-20T19:38:58-0800 # Broke
