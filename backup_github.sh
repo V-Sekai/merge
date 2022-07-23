@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Download gh client https://github.com/cli/cli/releases/tag/v2.14.2
+
 # Declare an array of string with type
 declare -a StringArray=("v-sekai-fire" "v-sekai" "godot-extended-libraries" "fire" "lyuma" "SaracenOne" "omigroup" "mrmetaverse")
 
