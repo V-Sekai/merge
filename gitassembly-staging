@@ -14,7 +14,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/quieter-particle-msg # Todo: fire
 merge groups-staging-4.x remotes/v-sekai-godot/material_drag_and_drop #pr
 merge groups-staging-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by Saracen 2022-03-06
 merge groups-staging-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
-# merge groups-staging-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr # Need to prioritize tokage's animation fixes.
 merge groups-staging-4.x remotes/v-sekai-godot/expose-gizmo-functions
 merge groups-staging-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_selection
@@ -30,7 +29,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
 merge groups-staging-4.x remotes/v-sekai-godot/animation_change_callback_fix
 merge groups-staging-4.x remotes/v-sekai-godot/fix_track_add_error
 merge groups-staging-4.x remotes/v-sekai-godot/silence_track_delete_error
-# merge groups-staging-4.x remotes/v-sekai-godot/make_unique_recursively # master breakage
 merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_scene_replicator_config
 merge groups-staging-4.x remotes/v-sekai-godot/tileset_editor_selection
@@ -54,10 +52,12 @@ merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
-# merge groups-staging-4.x remotes/aaronfranke/protocol-registration # Breakage
 merge groups-staging-4.x remotes/v-sekai-godot/animation_editor_read_only
 merge groups-staging-4.x remotes/tokage/normalize-position-track
 merge groups-staging-4.x remotes/v-sekai-godot/light_theme_text_color_tweaks
+# merge groups-staging-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr # Need to prioritize tokage's animation fixes.
+# merge groups-staging-4.x remotes/v-sekai-godot/make_unique_recursively # master breakage
+# merge groups-staging-4.x remotes/aaronfranke/protocol-registration # Breakage
 # merge groups-staging-4.x remotes/v-sekai-godot/silence-deps-dot-godot # Todo: fire - 2022-01-20T19:38:58-0800 # Broke
 # merge groups-staging-4.x remotes/Calinou/light-3d-shadow-blur-auto-bias #pr
 # merge groups-staging-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
