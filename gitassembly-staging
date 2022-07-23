@@ -30,7 +30,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
 merge groups-staging-4.x remotes/v-sekai-godot/animation_change_callback_fix
 merge groups-staging-4.x remotes/v-sekai-godot/fix_track_add_error
 merge groups-staging-4.x remotes/v-sekai-godot/silence_track_delete_error
-merge groups-staging-4.x remotes/v-sekai-godot/make_unique_recursively
+# merge groups-staging-4.x remotes/v-sekai-godot/make_unique_recursively # master breakage
 merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_scene_replicator_config
 merge groups-staging-4.x remotes/v-sekai-godot/tileset_editor_selection
