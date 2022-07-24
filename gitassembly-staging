@@ -56,7 +56,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/animation_editor_read_only
 merge groups-staging-4.x remotes/tokage/normalize-position-track
 merge groups-staging-4.x remotes/v-sekai-godot/light_theme_text_color_tweaks
 merge groups-staging-4.x remotes/v-sekai-godot/make_unique_recursively
-merge groups-staging-4.x remotes/tokage/normalize-position-track
 merge groups-staging-4.x remotes/v-sekai-godot/fix-cubic-slerp-dot
 # merge groups-staging-4.x remotes/v-sekai-godot/scene_phys_nav_import_options #pr # Need to prioritize tokage's animation fixes.
 # merge groups-staging-4.x remotes/aaronfranke/protocol-registration # Breakage
