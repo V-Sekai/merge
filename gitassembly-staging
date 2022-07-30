@@ -16,7 +16,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: f
 merge groups-staging-4.x remotes/v-sekai-godot/expose-gizmo-functions
 merge groups-staging-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_selection
-merge groups-staging-4.x remotes/v-sekai-godot/default_editable_children
+# merge groups-staging-4.x remotes/v-sekai-godot/default_editable_children # PR Conflict
 merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_resource_edits
 merge groups-staging-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resources
