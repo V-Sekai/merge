@@ -11,7 +11,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/better-sdfgi-defaults # Todo: fir
 merge groups-staging-4.x remotes/v-sekai-godot/add-editor-info # Todo: fire 2022-01-16T14:14:46.611-08:00
 merge groups-staging-4.x remotes/v-sekai-godot/scene-import-fixes # Todo: fire - 2022-01-18T21:23:00-0800
 merge groups-staging-4.x remotes/v-sekai-godot/quieter-particle-msg # Todo: fire - 2022-01-24T03:22:32-0800
-merge groups-staging-4.x remotes/v-sekai-godot/material_drag_and_drop #pr
 merge groups-staging-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by Saracen 2022-03-06
 merge groups-staging-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
 merge groups-staging-4.x remotes/v-sekai-godot/expose-gizmo-functions
