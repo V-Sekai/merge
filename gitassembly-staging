@@ -55,7 +55,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/gridmap-changes
 merge groups-staging-4.x remotes/tokage/auto-bone-mapping
 merge groups-staging-4.x remotes/v-sekai-godot/modify-lod-bind-scale
 merge groups-staging-4.x remotes/v-sekai-godot/csg-manifold
-merge groups-staging-4.x remotes/v-sekai-godot/mend-worker-thread-pool
 # merge groups-staging-4.x remotes/v-sekai-godot/silence-deps-dot-godot # Todo: fire - 2022-01-20T19:38:58-0800 # Broke
 # merge groups-staging-4.x remotes/Calinou/light-3d-shadow-blur-auto-bias #pr
 # merge groups-staging-4.x remotes/tokage/skeleton-retarget-and-animation-overhaul #pr
