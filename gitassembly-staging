@@ -48,7 +48,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
 merge groups-staging-4.x remotes/v-sekai-godot/protocol-registration
-merge groups-staging-4.x remotes/v-sekai-godot/gridmap-changes
 merge groups-staging-4.x remotes/tokage/auto-bone-mapping
 merge groups-staging-4.x remotes/v-sekai-godot/modify-lod-bind-scale
 merge groups-staging-4.x remotes/v-sekai-godot/gradient-crash
