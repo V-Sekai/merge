@@ -4,7 +4,7 @@ set -e
 
 ORIGINAL_BRANCH=main
 MERGE_REMOTE=v-sekai-godot
-MERGE_BRANCH=elixir-io
+MERGE_BRANCH=groups-io
 DRY_RUN=0
 
 while [[ -n "$1" ]]; do
