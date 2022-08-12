@@ -79,7 +79,7 @@ add_remote JohanAR https://github.com/JohanAR/godot.git
 merge_branch () {
     git checkout $ORIGINAL_BRANCH --force
     git branch -D $MERGE_BRANCH || true
-    python3 ./thirdparty/git-assembler -av --recreate --config gitassembly-gltf-io
+    python3 ./thirdparty/git-assembler -av --recreate --config gitassembly-io
     git checkout $MERGE_BRANCH -f
     export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
     if [[ $DRY_RUN -eq 0 ]]; then
