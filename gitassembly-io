@@ -22,7 +22,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/disable_data_generation_on_foreig
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
 merge groups-staging-4.x remotes/v-sekai-godot/disable_sprite_conversion_on_foreign_nodes
 merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
-merge groups-staging-4.x remotes/v-sekai-godot/ccache
 merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_editor_read_only
 merge groups-staging-4.x remotes/v-sekai-godot/animation_change_callback_fix
 merge groups-staging-4.x remotes/v-sekai-godot/fix_track_add_error
