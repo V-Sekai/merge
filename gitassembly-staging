@@ -53,6 +53,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/modify-lod-bind-scale
 merge groups-staging-4.x remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.x remotes/tokage/fix-silhouetter-for-rotated-skel
 merge groups-staging-4.x remotes/tokage/fix-optimizer
+merge groups-staging-4.x remotes/v-sekai-godot/basis-u-opencl-02
 # merge groups-staging-4.x remotes/v-sekai-godot/gltf-binary-img-compression # Todo fire - 2022-03-24
 # merge groups-staging-4.x remotes/v-sekai-godot/default_editable_children # PR Conflict
 # merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_resource_edits
