@@ -50,7 +50,10 @@ merge groups-staging-4.x remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.x remotes/tokage/fix-silhouetter-for-rotated-skel
 merge groups-staging-4.x remotes/tokage/fix-optimizer
 merge groups-staging-4.x remotes/v-sekai-godot/gridmap-expose
-
+merge groups-staging-4.x remotes/tokage/fix-node-transform-skin
+merge groups-staging-4.x remotes/v-sekai-godot/default-obj-scene
+merge groups-staging-4.x remotes/v-sekai-godot/auto_advance_behaviour
+merge groups-staging-4.x remotes/v-sekai-godot/modification-stack-to-nodes
 # merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 # merge groups-staging-4.x remotes/v-sekai-godot/protocol-registration
 # merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport - 2022-08-22
