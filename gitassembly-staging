@@ -55,7 +55,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/auto_advance_behaviour
 merge groups-staging-4.x remotes/v-sekai-godot/modification-stack-to-nodes
 merge groups-staging-4.x remotes/v-sekai-godot/center-3d-gizmo
 merge groups-staging-4.x remotes/timothyqiu/skin-data
-merge groups-staging-4.x remotes/v-sekai-godot/lod_scaling
+# merge groups-staging-4.x remotes/v-sekai-godot/lod_scaling
 # merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 # merge groups-staging-4.x remotes/v-sekai-godot/protocol-registration
 # merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport - 2022-08-22
