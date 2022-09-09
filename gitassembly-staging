@@ -48,7 +48,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/modify-lod-bind-scale
 merge groups-staging-4.x remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.x remotes/tokage/fix-silhouetter-for-rotated-skel
 merge groups-staging-4.x remotes/tokage/fix-optimizer
-merge groups-staging-4.x remotes/v-sekai-godot/gridmap-expose
 merge groups-staging-4.x remotes/tokage/fix-node-transform-skin
 merge groups-staging-4.x remotes/v-sekai-godot/default-obj-scene
 merge groups-staging-4.x remotes/v-sekai-godot/auto_advance_behaviour
