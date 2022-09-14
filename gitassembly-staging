@@ -44,7 +44,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
 merge groups-staging-4.x remotes/tokage/auto-bone-mapping
-merge groups-staging-4.x remotes/v-sekai-godot/modify-lod-bind-scale
 merge groups-staging-4.x remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.x remotes/tokage/fix-silhouetter-for-rotated-skel
 merge groups-staging-4.x remotes/tokage/fix-optimizer
@@ -55,7 +54,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/modification-stack-to-nodes
 merge groups-staging-4.x remotes/v-sekai-godot/center-3d-gizmo
 merge groups-staging-4.x remotes/v-sekai-godot/default-to-physical-camera-attribute
 merge groups-staging-4.x remotes/v-sekai-godot/rtr-warnings
-# merge groups-staging-4.x remotes/v-sekai-godot/lod_scaling
 # merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 # merge groups-staging-4.x remotes/v-sekai-godot/protocol-registration
 # merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport - 2022-08-22
