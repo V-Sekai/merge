@@ -4,8 +4,10 @@
 scoop install msys2
 msys2
 pacman -S mingw-w64-x86_64-git-lfs git python3 ssh-pageant
-eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME") >> ~/.bashrc
-export PATH=/mingw64/bin/:$PATH >> ~/.bashrc
+# copy 
+# eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
+# export PATH=/mingw64/bin/:$PATH
+# To the end of ~/.bashrc
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
 # Use push instead of to get the git repos.
