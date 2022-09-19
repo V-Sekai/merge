@@ -16,7 +16,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_select
 merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
 merge groups-staging-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resources
 merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
-merge groups-staging-4.x remotes/v-sekai-godot/disable_sprite_conversion_on_foreign_nodes
 merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
 merge groups-staging-4.x remotes/v-sekai-godot/ccache
 merge groups-staging-4.x remotes/v-sekai-godot/animation_change_callback_fix
@@ -38,11 +37,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-subgizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
-merge groups-staging-4.x remotes/tokage/auto-bone-mapping
 merge groups-staging-4.x remotes/v-sekai-godot/gradient-crash
-merge groups-staging-4.x remotes/tokage/fix-silhouetter-for-rotated-skel
-merge groups-staging-4.x remotes/tokage/fix-optimizer
-merge groups-staging-4.x remotes/tokage/fix-node-transform-skin
 merge groups-staging-4.x remotes/v-sekai-godot/default-obj-scene
 merge groups-staging-4.x remotes/v-sekai-godot/auto_advance_behaviour
 merge groups-staging-4.x remotes/v-sekai-godot/center-3d-gizmo
