@@ -45,6 +45,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/rtr-warnings
 merge groups-staging-4.x remotes/aaronfranke/gltf-extension
 merge groups-staging-4.x remotes/v-sekai-godot/unwrap-xatlas-uvs
 merge groups-staging-4.x remotes/clayjohn/double-precision-rendering
+merge groups-staging-4.x remotes/v-sekai-godot/particle-error
 # merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 # merge groups-staging-4.x remotes/v-sekai-godot/protocol-registration
 # merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport - 2022-08-22
