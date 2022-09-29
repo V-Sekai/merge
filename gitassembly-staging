@@ -48,6 +48,7 @@ merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
 merge groups-staging-4.x remotes/nikitalita/fix-mesh-convert
 merge groups-staging-4.x remotes/haasanen/fix_physics_thread_race_condition
 merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
+merge groups-staging-4.x remotes/aaronfranke/gltf-physics
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb
 merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux
 merge groups-staging-4.x remotes/RandomShaper/fix_res_loader
