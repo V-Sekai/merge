@@ -40,10 +40,8 @@ merge groups-staging-4.x remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.x remotes/v-sekai-godot/default-obj-scene
 merge groups-staging-4.x remotes/v-sekai-godot/auto_advance_behaviour
 merge groups-staging-4.x remotes/v-sekai-godot/center-3d-gizmo
-merge groups-staging-4.x remotes/v-sekai-godot/default-to-physical-camera-attribute
 merge groups-staging-4.x remotes/v-sekai-godot/rtr-warnings
 merge groups-staging-4.x remotes/v-sekai-godot/unwrap-xatlas-uvs
-merge groups-staging-4.x remotes/clayjohn/double-precision-rendering
 merge groups-staging-4.x remotes/v-sekai-godot/particle-error
 merge groups-staging-4.x remotes/v-sekai-godot/resource_loader_whitelist
 # merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
