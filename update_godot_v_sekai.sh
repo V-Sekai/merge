@@ -73,7 +73,6 @@ add_remote Rindbee https://github.com/Rindbee/godot.git
 add_remote aaronfranke https://github.com/aaronfranke/godot.git
 add_remote Razoric480 https://github.com/Razoric480/godot.git
 add_remote JohanAR https://github.com/JohanAR/godot.git
-add_remote TechnoPorg https://github.com/TechnoPorg/godot.git
 #
 
 
