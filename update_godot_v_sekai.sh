@@ -42,7 +42,7 @@ add_remote godotengine https://github.com/godotengine/godot
 add_remote SaracenOne https://github.com/SaracenOne/godot
 add_remote lyuma https://github.com/lyuma/godot
 add_remote fire https://github.com/fire/godot
-add_remote v-sekai-godot git@github.com:V-Sekai/godot.git
+add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 add_remote tokage https://github.com/TokageItLab/godot.git
 add_remote reduz https://github.com/reduz/godot
