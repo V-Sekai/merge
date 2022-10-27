@@ -11,6 +11,23 @@ Tested on msys2 Windows 11, Rocky Linux and Fedora 36.
 1. run `./update_godot_v_sekai.sh` to release the branch.
 1. run `./release_godot_v_sekai.sh` to update the io branch.
 
+# Readme for fire
+
+```
+scoop install msys2
+msys2
+pacman -S git python3 ssh-pageant
+# copy 
+# eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
+# export PATH=/mingw64/bin/:$PATH
+# To the end of ~/.bashrc
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+mkdir -p ~/.ssh
+ssh-keyscan github.com >> ~/.ssh/known_hosts
+ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+```
+
 ## References
 
 Was previously at https://github.com/V-Sekai/groups_merge_script_archived.
