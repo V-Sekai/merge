@@ -39,7 +39,7 @@ add_remote ()
 
 #
 add_remote godotengine https://github.com/godotengine/godot
-add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
+add_remote v-sekai-godot git@github.com:V-Sekai/godot.git # Do not change to https or it will break fire's pushing workflow.
 add_remote nikitalita https://github.com/nikitalita/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
 add_remote WindyDarian https://github.com/WindyDarian/godot/
