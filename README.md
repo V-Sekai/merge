@@ -11,7 +11,7 @@ Tested on msys2 Windows 11, Rocky Linux and Fedora 36.
 1. run `./update_godot_v_sekai.sh` to release the branch.
 1. run `./release_godot_v_sekai.sh` to update the io branch.
 
-# Readme for fire
+## Readme for fire
 
 ```
 scoop install msys2
