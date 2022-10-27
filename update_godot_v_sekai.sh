@@ -43,6 +43,7 @@ add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 add_remote nikitalita https://github.com/nikitalita/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
 add_remote WindyDarian https://github.com/WindyDarian/godot/
+add_remote bruvzg https://github.com/bruvzg/godot.git
 #
 
 merge_branch () {
