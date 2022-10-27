@@ -39,42 +39,11 @@ add_remote ()
 
 #
 add_remote godotengine https://github.com/godotengine/godot
-add_remote SaracenOne https://github.com/SaracenOne/godot
-add_remote lyuma https://github.com/lyuma/godot
-add_remote fire https://github.com/fire/godot
 add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
-add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
-add_remote tokage https://github.com/TokageItLab/godot.git
-add_remote reduz https://github.com/reduz/godot
-add_remote briansemrau https://github.com/briansemrau/godot.git
-add_remote Faless https://github.com/Faless/godot.git
-add_remote groud https://github.com/groud/godot.git
-add_remote jonbonazza https://github.com/jonbonazza/godot.git
-add_remote Chaosus https://github.com/Chaosus/godot.git
-add_remote clayjohn https://github.com/clayjohn/godot.git
 add_remote nikitalita https://github.com/nikitalita/godot.git
-add_remote NNesh https://github.com/NNesh/godot.git
-add_remote Calinou https://github.com/Calinou/godot.git
-add_remote AnilBK https://github.com/AnilBK/godot.git
-add_remote bruvzg https://github.com/bruvzg/godot.git
-add_remote timothyqiu https://github.com/timothyqiu/godot.git
-add_remote Calinou https://github.com/Calinou/godot.git
-add_remote Zylann https://github.com/Zylann/godot.git
-add_remote techiepriyansh https://github.com/techiepriyansh/godot.git
-add_remote adamscott https://github.com/adamscott/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
-add_remote YakoYakoYokuYoku https://github.com/YakoYakoYokuYoku/godot
 add_remote WindyDarian https://github.com/WindyDarian/godot/
-add_remote vnen https://github.com/vnen/godot/
-add_remote snailrhymer https://github.com/snailrhymer/godot
-add_remote KoBeWi https://github.com/KoBeWi/godot.git
-add_remote Shnazzy https://github.com/Shnazzy/godot.git
-add_remote Rindbee https://github.com/Rindbee/godot.git
-add_remote aaronfranke https://github.com/aaronfranke/godot.git
-add_remote Razoric480 https://github.com/Razoric480/godot.git
-add_remote JohanAR https://github.com/JohanAR/godot.git
 #
-
 
 merge_branch () {
     git checkout $ORIGINAL_BRANCH --force
