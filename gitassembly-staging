@@ -43,6 +43,7 @@ merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
 merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
 merge groups-staging-4.x remotes/bruvzg/libbacktrce
+merge groups-staging-4.x remotes/v-sekai-godot/remove-lod-sorting
 # merge groups-staging-4.x remotes/v-sekai-godot/animation_tree_null_behaviour
 # merge groups-staging-4.x remotes/v-sekai-godot/protocol-registration
 # merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport - 2022-08-22
