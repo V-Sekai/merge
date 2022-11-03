@@ -44,6 +44,7 @@ add_remote nikitalita https://github.com/nikitalita/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
 add_remote WindyDarian https://github.com/WindyDarian/godot/
 add_remote bruvzg https://github.com/bruvzg/godot.git
+add_remote aaronfranke https://github.com/aaronfranke/godot.git
 #
 
 merge_branch () {
