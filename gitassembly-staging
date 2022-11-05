@@ -44,4 +44,4 @@ merge groups-staging-4.x remotes/Geometror/improve-vs-1
 merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
 merge groups-staging-4.x remotes/v-sekai-godot/remove-lod-sorting
 merge groups-staging-4.x remotes/aaronfranke/gltf-extension
-merge groups-io remotes/v-sekai-godot/ik-nodes
+merge groups-staging-4.x remotes/v-sekai-godot/ik-nodes
