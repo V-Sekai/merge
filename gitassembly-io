@@ -48,4 +48,3 @@ merge groups-io remotes/v-sekai-godot/gradient-crash
 merge groups-io remotes/tokage/fix-silhouetter-for-rotated-skel
 merge groups-io remotes/tokage/fix-optimizer
 merge groups-io remotes/v-sekai-godot/ik-nodes
-# merge groups-io remotes/bruvzg/libbacktrce
