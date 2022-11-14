@@ -14,7 +14,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
 merge groups-staging-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resources
-merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
 merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
 merge groups-staging-4.x remotes/v-sekai-godot/fix_track_add_error
 merge groups-staging-4.x remotes/v-sekai-godot/silence_track_delete_error
@@ -45,3 +44,4 @@ merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
 merge groups-staging-4.x remotes/v-sekai-godot/remove-lod-sorting
 merge groups-staging-4.x remotes/aaronfranke/gltf-extension
 merge groups-staging-4.x remotes/nikitalita/fix-mesh-convert
+# merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
