@@ -41,6 +41,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/resource_loader_whitelist
 merge groups-staging-4.x remotes/v-sekai-godot/skeleton-gizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/skeleton-crash
 merge groups-staging-4.x remotes/v-sekai-godot/abstract_gltf_material
+merge groups-staging-4.x remotes/v-sekai-godot/gdscript-debug-crash
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
 merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
