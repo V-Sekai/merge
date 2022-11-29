@@ -45,5 +45,4 @@ merge groups-staging-4.x remotes/Geometror/improve-vs-1
 merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
 merge groups-staging-4.x remotes/nikitalita/fix-mesh-convert
 merge groups-staging-4.x remotes/haasanen/fix_physics_thread_race_condition
-merge groups-staging-4.x remotes/clayjohn/GLES3-skeletons
 # merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
