@@ -39,7 +39,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/unwrap-xatlas-uvs
 merge groups-staging-4.x remotes/v-sekai-godot/particle-error
 merge groups-staging-4.x remotes/v-sekai-godot/resource_loader_whitelist
 merge groups-staging-4.x remotes/v-sekai-godot/skeleton-gizmo-crash
-merge groups-staging-4.x remotes/v-sekai-godot/skeleton-crash
 merge groups-staging-4.x remotes/v-sekai-godot/gltf-runtime-image-fallback
 merge groups-staging-4.x remotes/BastiaanOlij/godot4_vr_editor
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
