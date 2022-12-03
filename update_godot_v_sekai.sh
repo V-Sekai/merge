@@ -46,6 +46,7 @@ add_remote WindyDarian https://github.com/WindyDarian/godot/
 add_remote bruvzg https://github.com/bruvzg/godot.git
 add_remote haasanen https://github.com/haasanen/godot.git
 add_remote TokageItLab https://github.com/TokageItLab/godot.git
+add_remote aaronfranke https://github.com/aaronfranke/godot.git
 #
 
 merge_branch () {
