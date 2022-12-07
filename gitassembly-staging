@@ -9,7 +9,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/scene-import-fixes # Todo: fire -
 merge groups-staging-4.x remotes/v-sekai-godot/quieter-particle-msg # Todo: fire - 2022-01-24T03:22:32-0800
 merge groups-staging-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by Saracen 2022-03-06
 merge groups-staging-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
-merge groups-staging-4.x remotes/v-sekai-godot/expose-gizmo-functions
 merge groups-staging-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_selection
 merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
