@@ -22,7 +22,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/bone-attach-connect
 merge groups-staging-4.x remotes/v-sekai-godot/editable_children_toggle_improvements
 merge groups-staging-4.x remotes/v-sekai-godot/disable-inspector-folding
 merge groups-staging-4.x remotes/v-sekai-godot/empty-space-collide-crash
-merge groups-staging-4.x remotes/v-sekai-godot/request-gizmo-immediately
 merge groups-staging-4.x remotes/v-sekai-godot/animation_player_silence
 merge groups-staging-4.x remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
