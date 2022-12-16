@@ -47,5 +47,6 @@ merge groups-staging-4.x remotes/haasanen/fix_physics_thread_race_condition
 merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
 merge groups-staging-4.x remotes/aaronfranke/gltf-physics
 merge groups-staging-4.x remotes/RedMser/blender-import-rpc
+merge groups-staging-4.x remotes/BastiaanOlij/godot4_vr_editor
 
 # merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
