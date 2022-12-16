@@ -39,6 +39,8 @@ merge groups-staging-4.x remotes/v-sekai-godot/resource_loader_whitelist
 merge groups-staging-4.x remotes/v-sekai-godot/skeleton-gizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/gltf-runtime-image-fallback
 merge groups-staging-4.x remotes/v-sekai-godot/negative_scale_backface
+merge groups-staging-4.x remotes/v-sekai-godot/move_pre_render
+# 
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
 merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
@@ -48,5 +50,5 @@ merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
 merge groups-staging-4.x remotes/aaronfranke/gltf-physics
 merge groups-staging-4.x remotes/RedMser/blender-import-rpc
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb
-
+#
 # merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
