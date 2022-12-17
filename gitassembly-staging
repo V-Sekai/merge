@@ -40,6 +40,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/skeleton-gizmo-crash
 merge groups-staging-4.x remotes/v-sekai-godot/gltf-runtime-image-fallback
 merge groups-staging-4.x remotes/v-sekai-godot/negative_scale_backface
 merge groups-staging-4.x remotes/v-sekai-godot/move_pre_render
+merge groups-staging-4.x remotes/v-sekai-godot/avoid-xr-error-spam
 # 
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
