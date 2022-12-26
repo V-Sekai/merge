@@ -53,5 +53,6 @@ merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
 merge groups-staging-4.x remotes/aaronfranke/gltf-physics
 merge groups-staging-4.x remotes/RedMser/blender-import-rpc
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb
+merge groups-staging-4.x remotes/Zylann/fix_lods_with_doubles
 #
 # merge groups-staging-4.x remotes/v-sekai-godot/disable_foreign_polygon_edits
