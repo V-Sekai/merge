@@ -43,6 +43,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/move_pre_render
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-xr-error-spam
 merge groups-staging-4.x remotes/v-sekai-godot/normalizing-quat-axis-angle
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-anim-crash
+merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport
 # 
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
