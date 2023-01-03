@@ -50,6 +50,7 @@ add_remote aaronfranke https://github.com/aaronfranke/godot.git
 add_remote RedMser https://github.com/RedMser/godot.git
 add_remote clayjohn https://github.com/clayjohn/godot.git
 add_remote Zylann https://github.com/Zylann/godot.git
+add_remote reduz https://github.com/reduz/godot.git
 #
 #
 
