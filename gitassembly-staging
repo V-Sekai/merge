@@ -1,5 +1,4 @@
 stage groups-staging-4.x remotes/godotengine/master
-merge groups-staging-4.x remotes/v-sekai-godot/gdscript-crash
 merge groups-staging-4.x remotes/v-sekai-godot/editor-crash
 merge groups-staging-4.x remotes/v-sekai-godot/compatibility-classes
 merge groups-staging-4.x remotes/v-sekai-godot/import-crash
