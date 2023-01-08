@@ -40,7 +40,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/avoid-xr-error-spam
 merge groups-staging-4.x remotes/v-sekai-godot/normalizing-quat-axis-angle
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-anim-crash
 merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport
-merge groups-staging-4.x remotes/v-sekai-godot/many-bone-ik
 merge groups-staging-4.x remotes/v-sekai-godot/gdscript-error-on-assign-void-revert
 merge groups-staging-4.x remotes/v-sekai-godot/restore-map-export
 # 
