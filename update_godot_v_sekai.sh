@@ -90,3 +90,4 @@ if [[ $has_changes -ne 0 ]]; then
 	echo "to re-apply those stashed changes"
 	git stash list
 fi
+dos2unix *
