@@ -17,7 +17,7 @@ Tested on msys2 Windows 11, Rocky Linux and Fedora 36.
 scoop install msys2
 msys2
 pacman -S git python3 ssh-pageant
-# copy 
+# copy
 # eval $(/usr/bin/ssh-pageant -r -a "/tmp/.ssh-pageant-$USERNAME")
 # export PATH=/mingw64/bin/:$PATH
 # To the end of ~/.bashrc
