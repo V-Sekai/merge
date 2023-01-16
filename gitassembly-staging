@@ -9,7 +9,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/openxr_crashfix # pending pr by S
 merge groups-staging-4.x remotes/v-sekai-godot/print-once-aabb-invalid # Todo: fire - 2022-03-14
 merge groups-staging-4.x remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.x remotes/v-sekai-godot/instance_editable_children_selection
-merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
 merge groups-staging-4.x remotes/v-sekai-godot/disable_data_generation_on_foreign_resources
 merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
 merge groups-staging-4.x remotes/v-sekai-godot/fix_track_add_error
@@ -39,8 +38,9 @@ merge groups-staging-4.x remotes/v-sekai-godot/move_pre_render
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-xr-error-spam
 merge groups-staging-4.x remotes/v-sekai-godot/normalizing-quat-axis-angle
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-anim-crash
-# merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport
 merge groups-staging-4.x remotes/v-sekai-godot/override_projection
+# merge groups-staging-4.x remotes/v-sekai-godot/update_on_reimport
+# merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively
 # 
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
