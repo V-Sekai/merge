@@ -13,7 +13,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/disable_data_generation_on_foreig
 merge groups-staging-4.x remotes/v-sekai-godot/scene_tree_disable_drop_above_root
 merge groups-staging-4.x remotes/v-sekai-godot/fix_track_add_error
 merge groups-staging-4.x remotes/v-sekai-godot/silence_track_delete_error
-merge groups-staging-4.x remotes/v-sekai-godot/physics_bone_joint_fix
 merge groups-staging-4.x remotes/v-sekai-godot/bone-attach-connect
 merge groups-staging-4.x remotes/v-sekai-godot/disable-inspector-folding
 merge groups-staging-4.x remotes/v-sekai-godot/empty-space-collide-crash
@@ -41,6 +40,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 # merge groups-staging-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes
 # merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively # undo redo changed
 # merge groups-staging-4.x remotes/v-sekai-godot/editable_children_toggle_improvements # undo redo changed
+# merge groups-staging-4.x remotes/v-sekai-godot/physics_bone_joint_fix # Too complicated.
 # 
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
