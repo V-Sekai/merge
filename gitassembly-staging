@@ -34,7 +34,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/avoid-xr-error-spam
 merge groups-staging-4.x remotes/v-sekai-godot/normalizing-quat-axis-angle
 merge groups-staging-4.x remotes/v-sekai-godot/avoid-anim-crash
 merge groups-staging-4.x remotes/v-sekai-godot/override_projection
-merge groups-staging-4.x remotes/v-sekai-godot/escn-fixes
 merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/gltf-reimport-appending
 # merge groups-staging-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes
