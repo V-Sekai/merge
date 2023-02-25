@@ -1,4 +1,4 @@
-stage groups-staging-4.x e0de3573f3fc86062763152f5a1ac62f5a986da3 # 2023-02-23T18:20+00:00
+stage groups-staging-4.x 84a80721c5308df36c7295949c76a622c5e0edb9 # 2023-02-25T22:51+00:00
 merge groups-staging-4.x remotes/v-sekai-godot/editor-crash
 merge groups-staging-4.x remotes/v-sekai-godot/compatibility-classes
 merge groups-staging-4.x remotes/v-sekai-godot/import-crash
@@ -34,6 +34,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/override_projection
 merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/stringname_constructor_mistake
 merge groups-staging-4.x remotes/v-sekai-godot/better-autolod
+merge groups-staging-4.x remotes/v-sekai-godot/mip-map-basisu
 # merge groups-staging-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes
 # merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively # undo redo changed
 # merge groups-staging-4.x remotes/v-sekai-godot/editable_children_toggle_improvements # undo redo changed
