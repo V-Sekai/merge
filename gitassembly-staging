@@ -38,7 +38,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/workaround_ra_as_rg
 merge groups-staging-4.x remotes/v-sekai-godot/prevent_advanced_reimport
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
 merge groups-staging-4.x remotes/v-sekai-godot/exrwav-movie
-merge groups-staging-4.x remotes/v-sekai-godot/csg-fixes-4.0
 merge groups-staging-4.x remotes/v-sekai-godot/mdt-crash
 # merge groups-staging-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes
 # merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively # undo redo changed
@@ -51,7 +50,6 @@ merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
 merge groups-staging-4.x remotes/nikitalita/fix-mesh-convert
 merge groups-staging-4.x remotes/haasanen/fix_physics_thread_race_condition
 merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
-merge groups-staging-4.x remotes/aaronfranke/gltf-physics
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb
 merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux
 #
