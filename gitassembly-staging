@@ -33,7 +33,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/avoid-anim-crash
 merge groups-staging-4.x remotes/v-sekai-godot/override_projection
 merge groups-staging-4.x remotes/v-sekai-godot/3d-audio
 merge groups-staging-4.x remotes/v-sekai-godot/stringname_constructor_mistake
-merge groups-staging-4.x remotes/v-sekai-godot/better-autolod
 merge groups-staging-4.x remotes/v-sekai-godot/workaround_ra_as_rg
 merge groups-staging-4.x remotes/v-sekai-godot/prevent_advanced_reimport
 merge groups-staging-4.x remotes/v-sekai-godot/exrwav-movie
