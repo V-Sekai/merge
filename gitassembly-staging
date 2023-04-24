@@ -36,7 +36,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/stringname_constructor_mistake
 merge groups-staging-4.x remotes/v-sekai-godot/workaround_ra_as_rg
 merge groups-staging-4.x remotes/v-sekai-godot/prevent_advanced_reimport
 merge groups-staging-4.x remotes/v-sekai-godot/exrwav-movie
-merge groups-staging-4.x remotes/v-sekai-godot/mdt-crash-4.0
+merge groups-staging-4.x remotes/v-sekai-godot/mdt-crash-4.1
 merge groups-staging-4.x remotes/v-sekai-godot/allow-thread-resource-load
 merge groups-staging-4.x remotes/v-sekai-godot/csg-fixes-4.0
 merge groups-staging-4.x remotes/v-sekai-godot/fix-typo-pose-orientation
