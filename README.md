@@ -26,7 +26,3 @@ git config --global user.email "ernest.lee@chibifire.com"
 mkdir -p ~/.ssh
 ssh-keyscan github.com >> ~/.ssh/known_hosts
 ```
-
-## References
-
-Was previously at https://github.com/V-Sekai/groups_merge_script_archived.
