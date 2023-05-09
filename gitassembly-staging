@@ -36,7 +36,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/workaround_ra_as_rg
 merge groups-staging-4.x remotes/v-sekai-godot/prevent_advanced_reimport
 merge groups-staging-4.x remotes/v-sekai-godot/exrwav-movie
 merge groups-staging-4.x remotes/v-sekai-godot/allow-thread-resource-load-master
-merge groups-staging-4.x remotes/v-sekai-godot/fix-typo-pose-orientation
 merge groups-staging-4.x remotes/v-sekai-godot/better-autolod-4.0
 merge groups-staging-4.x remotes/v-sekai-godot/osx-audio-spam
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik
