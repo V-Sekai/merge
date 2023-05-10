@@ -38,7 +38,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/exrwav-movie
 merge groups-staging-4.x remotes/v-sekai-godot/allow-thread-resource-load-master
 # merge groups-staging-4.x remotes/v-sekai-godot/better-autolod-4.0 # 2023-05-09T06:27+00:00
 # merge groups-staging-4.x remotes/v-sekai-godot/osx-audio-spam # 2023-05-09T06:31+00:00
-merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik
+merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik-4.1
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-lasso
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-speech
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-realtime-retarget
