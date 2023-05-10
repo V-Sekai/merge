@@ -51,7 +51,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/vsk-wasm-4.1
 # merge groups-staging-4.x remotes/v-sekai-godot/quieter-particle-msg # Todo: fire - 2022-01-24T03:22:32-0800 # Broke
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.x remotes/Geometror/improve-vs-1
-merge groups-staging-4.x remotes/WindyDarian/state_machine_transition
+# merge groups-staging-4.x remotes/WindyDarian/state_machine_transition # TODO: fire - 2023-05-10T13:31+00:00
 merge groups-staging-4.x remotes/nikitalita/fix-mesh-convert
 merge groups-staging-4.x remotes/haasanen/fix_physics_thread_race_condition
 merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
