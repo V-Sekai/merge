@@ -34,7 +34,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/mdt-crash
 merge groups-staging-4.x remotes/v-sekai-godot/allow-thread-resource-load 
 merge groups-staging-4.x remotes/v-sekai-godot/better-autolod-4.0 
 merge groups-staging-4.x remotes/v-sekai-godot/osx-audio-spam 
-merge groups-staging-4.x remotes/v-sekai-godot/fix-skeleton-editor
 merge groups-staging-4.x remotes/v-sekai-godot/pose-global-no-override-4.0
 merge groups-staging-4.x remotes/v-sekai-godot/child_mesh_retarget-4.0
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik 
