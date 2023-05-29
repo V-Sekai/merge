@@ -38,6 +38,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/pose-global-no-override-4.0
 merge groups-staging-4.x remotes/v-sekai-godot/child_mesh_retarget-4.0
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-lasso 
+merge groups-staging-4.x remotes/v-sekai-godot/vsk-speech 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-realtime-retarget 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-many-bone-ik
 merge groups-staging-4.x remotes/v-sekai-godot/import-split-texture-meta-4-0
