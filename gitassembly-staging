@@ -44,6 +44,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/vsk-realtime-retarget
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-many-bone-ik
 merge groups-staging-4.x remotes/v-sekai-godot/import-split-texture-meta-4-0
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-texture-packer
+merge groups-staging-4.x remotes/v-sekai-godot/skeleton3d_rest_dirty
 # merge groups-staging-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes 
 # merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively # undo redo changed 
 # merge groups-staging-4.x remotes/v-sekai-godot/editable_children_toggle_improvements # undo redo changed 
