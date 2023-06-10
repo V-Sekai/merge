@@ -47,7 +47,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/vsk-pmx-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-speech-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-realtime-retarget-master 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-many-bone-ik-master
-merge groups-staging-4.x remotes/v-sekai-godot/vsk-texture-packer
+merge groups-staging-4.x remotes/v-sekai-godot/vsk-texture-packer-master
 #####
 #####
 ## TODO ##
