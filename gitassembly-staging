@@ -42,6 +42,10 @@ merge groups-staging-4.x remotes/haasanen/fix_physics_thread_race_condition
 merge groups-staging-4.x remotes/TokageItLab/byebye-trigger 
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb 
 merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux 
+
+commit_necromancy
+
+
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-lasso-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-pmx-master
