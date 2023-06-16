@@ -35,23 +35,22 @@ merge groups-staging-4.x remotes/v-sekai-godot/osx-audio-spam-master
 merge groups-staging-4.x remotes/v-sekai-godot/load-ogg-bytes-remake
 merge groups-staging-4.x remotes/v-sekai-godot/connection-dock-pending-delete-master
 merge groups-staging-4.x remotes/v-sekai-godot/resource_loader_whitelist_4.1
+merge groups-staging-4.x remotes/v-sekai-godot/commit_necromancy
+merge groups-staging-4.x remotes/v-sekai-godot/vsk-javas
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary 
 merge groups-staging-4.x remotes/Geometror/improve-vs-1 
 merge groups-staging-4.x remotes/nikitalita/fix-mesh-convert 
 merge groups-staging-4.x remotes/haasanen/fix_physics_thread_race_condition 
 merge groups-staging-4.x remotes/TokageItLab/byebye-trigger 
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb 
-merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux 
-
-commit_necromancy
-
-
+merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-lasso-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-pmx-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-speech-master
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-realtime-retarget-master 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-many-bone-ik-master
+merge groups-staging-4.x remotes/v-sekai-godot/vsk-javascript
 # merge groups-staging-4.x remotes/v-sekai-godot/multi_monitor_popup_fixes 
 # merge groups-staging-4.x remotes/v-sekai-godot/make_local_recursively # undo redo changed 
 # merge groups-staging-4.x remotes/v-sekai-godot/editable_children_toggle_improvements # undo redo changed 
