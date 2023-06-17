@@ -37,6 +37,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/connection-dock-pending-delete-ma
 merge groups-staging-4.x remotes/v-sekai-godot/resource_loader_whitelist_4.1
 merge groups-staging-4.x remotes/v-sekai-godot/gradient2d-crash-fix
 merge groups-staging-4.x remotes/v-sekai-godot/editor-tooltip-crash
+merge groups-staging-4.x remotes/v-sekai-godot/macos-shadow-don-t-double
 merge groups-staging-4.x remotes/KoBeWi/commit_necromancy
 merge groups-staging-4.x remotes/nikitalita/fix-save-as-binary 
 merge groups-staging-4.x remotes/Geometror/improve-vs-1 
