@@ -42,7 +42,7 @@ merge groups-staging-4.x remotes/v-sekai-godot/vsk-pmx
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-speech 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-realtime-retarget 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-many-bone-ik
-merge groups-staging-4.x remotes/v-sekai-godot/vsk-javascript-4.0
+merge groups-staging-4.x remotes/v-sekai-godot/vsk-javascript
 merge groups-staging-4.x remotes/v-sekai-godot/import-split-texture-meta-4-0
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-texture-packer
 merge groups-staging-4.x remotes/v-sekai-godot/skeleton3d-rest-dirty-4.0
