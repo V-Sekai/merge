@@ -46,7 +46,6 @@ merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb  
 merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux 
 merge groups-staging-4.x remotes/KoBeWi/who_needs_restart_anyway
-merge groups-staging-4.x remotes/v-sekai-godot/without-reloading 
 merge groups-staging-4.x remotes/v-sekai-godot/mono-unused  
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik-4.1 
