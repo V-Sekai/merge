@@ -50,7 +50,6 @@ merge groups-staging-4.x remotes/v-sekai-godot/libgodot-4.1
 merge groups-staging-4.x remotes/v-sekai-godot/worst-lod-distances-alternative-03
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik-4.1 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-lasso-master 
-merge groups-staging-4.x remotes/v-sekai-godot/vsk-pmx-master 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-speech-master 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-realtime-retarget-master  
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-many-bone-ik-master 
