@@ -47,7 +47,7 @@ merge groups-staging-4.x remotes/clayjohn/mesh-aabb
 merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux 
 merge groups-staging-4.x remotes/KoBeWi/who_needs_restart_anyway
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot-4.1
-merge groups-staging-4.x remotes/v-sekai-godot/aworst-lod-distances-alternative
+merge groups-staging-4.x remotes/v-sekai-godot/worst-lod-distances-alternative-03
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik-4.1 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-lasso-master 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-pmx-master 
