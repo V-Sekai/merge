@@ -47,6 +47,7 @@ merge groups-staging-4.x remotes/TokageItLab/byebye-trigger
 merge groups-staging-4.x remotes/clayjohn/mesh-aabb
 merge groups-staging-4.x remotes/adamscott/fix-class-lookup-redux 
 merge groups-staging-4.x remotes/v-sekai-godot/libgodot-4.1
+merge groups-staging-4.x remotes/v-sekai-godot/icon
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-renik-4.1 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-lasso-master 
 merge groups-staging-4.x remotes/v-sekai-godot/vsk-speech-master 
