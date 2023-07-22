@@ -53,6 +53,7 @@ add_remote Zylann https://github.com/Zylann/godot.git
 add_remote reduz https://github.com/reduz/godot.git
 add_remote adamscott https://github.com/adamscott/godot.git
 add_remote RhubarbVR-godot-lib https://github.com/RhubarbVR/godot-lib.git
+add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 #
 #
 
