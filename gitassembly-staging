@@ -44,6 +44,7 @@ merge groups-staging-4.2 remotes/haasanen/fix_physics_thread_race_condition
 merge groups-staging-4.2 remotes/TokageItLab/byebye-trigger
 merge groups-staging-4.2 remotes/clayjohn/mesh-aabb
 merge groups-staging-4.2 remotes/adamscott/fix-class-lookup-redux 
+merge groups-staging-4.2 remotes/adamscott/web-non-blocking-main-thread
 merge groups-staging-4.2 remotes/BastiaanOlij/macos_openxr
 merge groups-staging-4.2 remotes/v-sekai-godot/libgodot-4.1
 merge groups-staging-4.2 remotes/v-sekai-godot/icon
