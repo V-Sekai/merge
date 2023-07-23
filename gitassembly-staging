@@ -48,11 +48,11 @@ merge groups-staging-4.2 remotes/adamscott/web-non-blocking-main-thread
 merge groups-staging-4.2 remotes/BastiaanOlij/macos_openxr
 merge groups-staging-4.2 remotes/v-sekai-godot/libgodot-4.1
 merge groups-staging-4.2 remotes/v-sekai-godot/icon
-merge groups-staging-4.2 remotes/v-sekai-godot/vsk-renik-4.1 
-merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-master 
-merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-master 
-merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-master
-merge groups-staging-4.2 remotes/v-sekai-godot/vsk-many-bone-ik-master 
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-renik-4.2 
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-many-bone-ik-4.2 
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ipad-io-4-1
 # merge groups-staging-4.2 remotes/v-sekai-godot/multi_monitor_popup_fixes
 # merge groups-staging-4.2 remotes/v-sekai-godot/make_local_recursively # undo redo changed
