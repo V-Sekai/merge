@@ -53,6 +53,7 @@ merge groups-staging-4.2 remotes/v-sekai-godot/viewport-path-update-fix
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-renik-4.2 
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-many-bone-ik-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ipad-io-4-1
 # merge groups-staging-4.2 remotes/v-sekai-godot/multi_monitor_popup_fixes
