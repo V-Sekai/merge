@@ -46,7 +46,6 @@ merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ipad-io-4-1
-#merge groups-staging-4.2 remotes/v-sekai-godot/resource-importer-scenecrash-fix
 merge groups-staging-4.2 remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.2 remotes/Geometror/improve-vs-1
 merge groups-staging-4.2 remotes/nikitalita/fix-mesh-convert
@@ -57,6 +56,7 @@ merge groups-staging-4.2 remotes/adamscott/fix-class-lookup-redux
 merge groups-staging-4.2 remotes/adamscott/fix-file-permissions-web
 merge groups-staging-4.2 remotes/BastiaanOlij/macos_openxr
 
+# merge groups-staging-4.2 remotes/v-sekai-godot/resource-importer-scenecrash-fix
 # merge groups-staging-4.2 remotes/v-sekai-godot/multi_monitor_popup_fixes
 # merge groups-staging-4.2 remotes/v-sekai-godot/make_local_recursively # undo redo changed
 # merge groups-staging-4.2 remotes/v-sekai-godot/editable_children_toggle_improvements # undo redo changed
