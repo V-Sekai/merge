@@ -30,7 +30,6 @@ merge groups-staging-4.2 remotes/v-sekai-godot/workaround_ra_as_rg
 merge groups-staging-4.2 remotes/v-sekai-godot/prevent_advanced_reimport
 merge groups-staging-4.2 remotes/v-sekai-godot/exrwav-movie
 merge groups-staging-4.2 remotes/v-sekai-godot/mdt-crash-master 
-merge groups-staging-4.2 remotes/v-sekai-godot/better-autolod-master 
 merge groups-staging-4.2 remotes/v-sekai-godot/osx-audio-spam-master 
 merge groups-staging-4.2 remotes/v-sekai-godot/connection-dock-pending-delete-master 
 merge groups-staging-4.2 remotes/v-sekai-godot/resource_loader_whitelist_4.1 
