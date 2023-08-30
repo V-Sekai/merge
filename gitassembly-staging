@@ -44,6 +44,7 @@ merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ipad-io-4-1
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lbfgs-4.2
 merge groups-staging-4.2 remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.2 remotes/Geometror/improve-vs-1
 merge groups-staging-4.2 remotes/nikitalita/fix-mesh-convert
