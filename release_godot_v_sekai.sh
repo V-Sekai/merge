@@ -38,7 +38,7 @@ add_remote ()
 }
 
 #
-add_remote v-sekai-godot git@github.com:V-Sekai/godot.git
+add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 #
 
 
