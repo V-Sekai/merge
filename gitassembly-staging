@@ -35,6 +35,7 @@ merge groups-staging-4.2 remotes/v-sekai-godot/editor-log-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/vertex-indices
 merge groups-staging-4.2 remotes/v-sekai-godot/faster-surface-tool
 merge groups-staging-4.2 remotes/v-sekai-godot/access-edited-scenes
+merge groups-staging-4.2 remotes/v-sekai-godot/viewport-path-update-fix
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-renik-4.2 
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
