@@ -57,6 +57,7 @@ add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 add_remote RandomShaper https://github.com/RandomShaper/godot.git
 add_remote DarioSamo https://github.com/DarioSamo/godot.git
 add_remote garychia https://github.com/garychia/godot.git
+add_remote QbieShay https://github.com/QbieShay/godot.git
 #
 #
 
