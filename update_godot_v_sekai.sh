@@ -55,6 +55,7 @@ add_remote adamscott https://github.com/adamscott/godot.git
 add_remote RhubarbVR-godot-lib https://github.com/RhubarbVR/godot-lib.git
 add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 add_remote RandomShaper https://github.com/RandomShaper/godot.git
+add_remote DarioSamo https://github.com/DarioSamo/godot.git
 #
 #
 
