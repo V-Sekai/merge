@@ -11,7 +11,6 @@ merge groups-staging-4.2 remotes/v-sekai-godot/bone-attach-connect
 merge groups-staging-4.2 remotes/v-sekai-godot/disable-inspector-folding
 merge groups-staging-4.2 remotes/v-sekai-godot/empty-space-collide-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/animation_player_silence
-merge groups-staging-4.2 remotes/v-sekai-godot/skeleton_editor_crashfix
 merge groups-staging-4.2 remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.2 remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/default-obj-scene
