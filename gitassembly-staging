@@ -35,6 +35,13 @@ merge groups-staging-4.2 remotes/v-sekai-godot/vertex-indices
 merge groups-staging-4.2 remotes/v-sekai-godot/faster-surface-tool
 merge groups-staging-4.2 remotes/v-sekai-godot/access-edited-scenes
 merge groups-staging-4.2 remotes/v-sekai-godot/viewport-path-update-fix
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-renik-4.2 
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ipad-io-4-1
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lbfgs-4.2
+merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ufbx
 merge groups-staging-4.2 remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.2 remotes/Geometror/improve-vs-1
 merge groups-staging-4.2 remotes/nikitalita/fix-mesh-convert
