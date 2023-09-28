@@ -59,6 +59,7 @@ add_remote DarioSamo https://github.com/DarioSamo/godot.git
 add_remote garychia https://github.com/garychia/godot.git
 add_remote QbieShay https://github.com/QbieShay/godot.git
 add_remote briansemrau https://github.com/briansemrau/godot.git
+add_remote SaracenOne https://github.com/SaracenOne/godot.git
 #
 #
 
