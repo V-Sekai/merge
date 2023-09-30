@@ -9,7 +9,6 @@ merge groups-staging-4.2 remotes/v-sekai-godot/scene_tree_disable_drop_above_roo
 merge groups-staging-4.2 remotes/v-sekai-godot/fix_track_add_error
 merge groups-staging-4.2 remotes/v-sekai-godot/disable-inspector-folding
 merge groups-staging-4.2 remotes/v-sekai-godot/empty-space-collide-crash
-merge groups-staging-4.2 remotes/v-sekai-godot/animation_player_silence
 merge groups-staging-4.2 remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.2 remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/default-obj-scene
