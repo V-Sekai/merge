@@ -47,7 +47,7 @@ merge groups-staging-4.2 remotes/DarioSamo/nlm-denoiser
 merge groups-staging-4.2 remotes/SaracenOne/recache_bone_attachment
 merge groups-staging-4.2 remotes/briansemrau/bugfix/lod_selection_revert
 merge groups-staging-4.2 remotes/v-sekai-godot/blender-export-4.2
-merge groups-staging-4.2 remotes/RhubarbVR-godot-changes/godot_changes
+merge groups-staging-4.2 remotes/RhubarbVR-godot-changes/godot.dll.exe
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-renik-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
 # merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
