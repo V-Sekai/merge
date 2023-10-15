@@ -50,6 +50,8 @@ merge groups-staging-4.2 remotes/RhubarbVR-godot-changes/godot.dll.exe
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-renik-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lasso-4.2
 # merge groups-staging-4.2 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
+merge groups-staging-4.2 remotes/aaronfranke/basis-is-ortho
+merge groups-staging-4.2 remotes/aaronfranke/gltf-transform
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ipad-io-4-1
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lbfgs-4.2
