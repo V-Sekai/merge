@@ -1,4 +1,4 @@
-stage groups-staging-4.2 remotes/v-sekai-godot/4.2-beta-2
+stage groups-staging-4.2 remotes/godotengine/master
 merge groups-staging-4.2 remotes/v-sekai-godot/import-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/add-editor-info # Todo: fire 2022-01-16T14:14:46.611-08:00
 merge groups-staging-4.2 remotes/v-sekai-godot/scene-import-fixes # Todo: fire - 2022-01-18T21:23:00-0800
