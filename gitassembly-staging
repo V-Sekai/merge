@@ -12,7 +12,6 @@ merge groups-staging-4.2 remotes/v-sekai-godot/empty-space-collide-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.2 remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/default-obj-scene
-merge groups-staging-4.2 remotes/v-sekai-godot/rtr-warnings
 merge groups-staging-4.2 remotes/v-sekai-godot/move_pre_render
 merge groups-staging-4.2 remotes/v-sekai-godot/avoid-xr-error-spam
 merge groups-staging-4.2 remotes/v-sekai-godot/normalizing-quat-axis-angle
