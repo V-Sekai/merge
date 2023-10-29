@@ -54,7 +54,6 @@ merge groups-staging-4.2 remotes/v-sekai-godot/vsk-speech-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-lbfgs-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-ufbx
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-many-bone-ik-4.2
-merge groups-staging-4.2 remotes/v-sekai-godot/vsk-libdatachannel-4.2
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-subdiv-4-0
 merge groups-staging-4.2 remotes/v-sekai-godot/vsk-pmx-4.2
 # merge groups-staging-4.2 remotes/v-sekai-godot/vsk-release-4.2
