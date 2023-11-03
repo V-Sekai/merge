@@ -1,5 +1,4 @@
 stage groups-staging-4.2 remotes/godotengine/master
-merge groups-staging-4.2 remotes/v-sekai-godot/vsk-desync-4.2
 merge groups-staging-4.2 remotes/zeux/meshopt-update
 merge groups-staging-4.2 remotes/v-sekai-godot/import-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/add-editor-info # Todo: fire 2022-01-16T14:14:46.611-08:00
