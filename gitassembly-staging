@@ -1,4 +1,4 @@
-stage groups-staging-4.2 remotes/godotengine/4c96e9676b66d0cc9a25022b019b78f4c20ddc60
+stage groups-staging-4.2 remotes/godotengine/4c96e9676b66d0cc9a25022b019b78f4c20ddc60 # Godot 4.2 beta 5 
 merge groups-staging-4.2 remotes/zeux/meshopt-update
 merge groups-staging-4.2 remotes/v-sekai-godot/import-crash
 merge groups-staging-4.2 remotes/v-sekai-godot/add-editor-info # Todo: fire 2022-01-16T14:14:46.611-08:00
