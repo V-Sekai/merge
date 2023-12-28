@@ -42,27 +42,12 @@ add_remote godotengine https://github.com/godotengine/godot
 add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 add_remote nikitalita https://github.com/nikitalita/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
-add_remote WindyDarian https://github.com/WindyDarian/godot/
-add_remote bruvzg https://github.com/bruvzg/godot.git
 add_remote haasanen https://github.com/haasanen/godot.git
 add_remote TokageItLab https://github.com/TokageItLab/godot.git
-add_remote aaronfranke https://github.com/aaronfranke/godot.git
-add_remote RedMser https://github.com/RedMser/godot.git
 add_remote clayjohn https://github.com/clayjohn/godot.git
-add_remote Zylann https://github.com/Zylann/godot.git
-add_remote reduz https://github.com/reduz/godot.git
 add_remote adamscott https://github.com/adamscott/godot.git
-add_remote RhubarbVR-godot-lib https://github.com/RhubarbVR/godot-lib.git
 add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
-add_remote RandomShaper https://github.com/RandomShaper/godot.git
 add_remote DarioSamo https://github.com/DarioSamo/godot.git
-add_remote garychia https://github.com/garychia/godot.git
-add_remote QbieShay https://github.com/QbieShay/godot.git
-add_remote briansemrau https://github.com/briansemrau/godot.git
-add_remote SaracenOne https://github.com/SaracenOne/godot.git
-add_remote Shnazzy https://github.com/Shnazzy/godot.git
-add_remote RhubarbVR-godot-changes https://github.com/RhubarbVR/godot_changes.git
-add_remote zeux https://github.com/zeux/godot.git
 #
 #
 
