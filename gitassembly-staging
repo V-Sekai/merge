@@ -18,11 +18,10 @@ merge groups-staging-4.3 remotes/v-sekai-godot/normalizing-quat-axis-angle
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-anim-crash
 merge groups-staging-4.3 remotes/v-sekai-godot/workaround_ra_as_rg
 merge groups-staging-4.3 remotes/v-sekai-godot/prevent_advanced_reimport
-merge groups-staging-4.3 remotes/v-sekai-godot/exrwav-movie
 merge groups-staging-4.3 remotes/v-sekai-godot/mdt-crash-master 
 merge groups-staging-4.3 remotes/v-sekai-godot/osx-audio-spam-master 
 merge groups-staging-4.3 remotes/v-sekai-godot/connection-dock-pending-delete-master 
-merge groups-staging-4.3 remotes/v-sekai-godot/resource_loader_whitelist_4.1 
+merge groups-staging-4.3 remotes/v-sekai-godot/resource_loader_whitelist_4.3 
 merge groups-staging-4.3 remotes/v-sekai-godot/editor-tooltip-crash 
 merge groups-staging-4.3 remotes/v-sekai-godot/macos-shadow-don-t-double
 merge groups-staging-4.3 remotes/v-sekai-godot/lod-crash-fix
@@ -67,3 +66,4 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/disable_foreign_polygon_edits
 # Broken
 # merge groups-staging-4.3 remotes/v-sekai-godot/3d-audio-4.2
+# merge groups-staging-4.3 remotes/v-sekai-godot/exrwav-movie
