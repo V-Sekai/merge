@@ -23,6 +23,7 @@ merge groups-staging-4.3 remotes/v-sekai-godot/osx-audio-spam-master
 merge groups-staging-4.3 remotes/v-sekai-godot/connection-dock-pending-delete-master 
 merge groups-staging-4.3 remotes/v-sekai-godot/resource_loader_whitelist_4.3 
 merge groups-staging-4.3 remotes/v-sekai-godot/editor-tooltip-crash 
+merge groups-staging-4.3 remotes/v-sekai-godot/lod-crash-fix
 merge groups-staging-4.3 remotes/v-sekai-godot/flac-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/editor-log-crash
 merge groups-staging-4.3 remotes/v-sekai-godot/vertex-indices
@@ -36,7 +37,6 @@ merge groups-staging-4.3 remotes/clayjohn/mesh-aabb
 merge groups-staging-4.3 remotes/adamscott/fix-class-lookup-redux
 merge groups-staging-4.3 remotes/adamscott/fix-file-permissions-web
 merge groups-staging-4.3 remotes/DarioSamo/nlm-denoiser
-merge groups-staging-4.3 remotes/briansemrau/bugfix/lod_selection_revert
 merge groups-staging-4.3 remotes/v-sekai-godot/blender-export-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/pinning_fix
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-renik-4.2
@@ -65,4 +65,3 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.2
 # Broken
 # merge groups-staging-4.3 remotes/v-sekai-godot/3d-audio-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/exrwav-movie
-# merge groups-staging-4.3 remotes/v-sekai-godot/lod-crash-fix
