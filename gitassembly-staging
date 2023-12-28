@@ -60,8 +60,8 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/quieter-particle-msg # Todo: fire - 2022-01-24T03:22:32-0800 # Broke
 # merge groups-staging-4.3 remotes/v-sekai-godot/disable_foreign_polygon_edits
 # Broken
-# merge groups-staging-4.3 remotes/v-sekai-godot/3d-audio-4.2
-# merge groups-staging-4.3 remotes/v-sekai-godot/exrwav-movie
-# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-many-bone-ik-4.2
-# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-mvsqlite-4.2
-# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-pmx-4.2
+# merge groups-staging-4.3 remotes/v-sekai-godot/3d-audio-4.3
+# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-exrwav-movie-4.3
+# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-many-bone-ik-4.3
+# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-mvsqlite-4.3
+# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-pmx-4.3
