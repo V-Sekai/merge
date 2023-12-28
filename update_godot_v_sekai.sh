@@ -48,6 +48,7 @@ add_remote clayjohn https://github.com/clayjohn/godot.git
 add_remote adamscott https://github.com/adamscott/godot.git
 add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 add_remote DarioSamo https://github.com/DarioSamo/godot.git
+add_remote bitsawer https://github.com/bitsawer/godot.git
 #
 #
 
