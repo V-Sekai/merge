@@ -50,7 +50,6 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-pmx-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libdatachannel-4.2
 merge groups-staging-4.3 remotes/BastiaanOlij/skip_present_if_needed
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-desync-4.2
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-mvsqlite-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-release-4.2
@@ -65,3 +64,4 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/3d-audio-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/exrwav-movie
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-many-bone-ik-4.2
+# merge groups-staging-4.3 remotes/v-sekai-godot/vsk-mvsqlite-4.2
