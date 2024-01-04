@@ -49,7 +49,7 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-subdiv-4-0
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libdatachannel-4.2
 merge groups-staging-4.3 remotes/BastiaanOlij/skip_present_if_needed
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.2
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-3d-audio-4.3
+merge groups-staging-4.3 remotes/v-sekai-godot/vsk-3d-audio-variant-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-exrwav-movie-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-many-bone-ik-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-pmx-4.3
