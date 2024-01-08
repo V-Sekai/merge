@@ -50,6 +50,7 @@ add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 add_remote DarioSamo https://github.com/DarioSamo/godot.git
 add_remote bitsawer https://github.com/bitsawer/godot.git
 add_remote Riteo https://github.com/Riteo/godot.git
+add_remote tdaven https://github.com/tdaven/godot.git
 #
 
 merge_branch () {
