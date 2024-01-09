@@ -53,7 +53,7 @@ merge groups-staging-4.3 remotes/adamscott/fix-class-lookup-redux
 merge groups-staging-4.3 remotes/adamscott/fix-file-permissions-web
 merge groups-staging-4.3 remotes/DarioSamo/nlm-denoiser
 merge groups-staging-4.3 remotes/tdaven/tdaven/fix-86427
-
+merge groups-staging-4.3 remotes/tdaven/single-threaded-godot-4
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-release-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/resource-importer-scenecrash-fix
