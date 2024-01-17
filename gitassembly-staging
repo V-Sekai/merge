@@ -57,6 +57,7 @@ merge groups-staging-4.3 remotes/tdaven/tdaven/fix-86427
 merge groups-staging-4.3 remotes/adamscott/single-threaded-godot-4
 merge groups-staging-4.3 remotes/aaronfranke/stack
 merge groups-staging-4.3 remotes/shana/vsproj-for-everyone
+merge groups-staging-4.3 remotes/reduz/interactive-music-take3
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-release-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/resource-importer-scenecrash-fix
