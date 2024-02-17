@@ -28,7 +28,7 @@ merge groups-staging-4.3 remotes/v-sekai-godot/access-edited-scenes
 # merge groups-staging-4.3 remotes/v-sekai-godot/pinning_fix
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-renik-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-lasso-4.2
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-ipad-io-4-1
+merge groups-staging-4.3 remotes/v-sekai-godot/vsk-ipados-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-speech-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-ufbx
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.2
