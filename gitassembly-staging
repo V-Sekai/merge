@@ -13,7 +13,6 @@ merge groups-staging-4.3 remotes/v-sekai-godot/default-obj-scene
 merge groups-staging-4.3 remotes/v-sekai-godot/move_pre_render
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-xr-error-spam
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-anim-crash
-merge groups-staging-4.3 remotes/v-sekai-godot/workaround_ra_as_rg
 merge groups-staging-4.3 remotes/v-sekai-godot/prevent_advanced_reimport
 merge groups-staging-4.3 remotes/v-sekai-godot/mdt-crash-master 
 merge groups-staging-4.3 remotes/v-sekai-godot/osx-audio-spam-master 
