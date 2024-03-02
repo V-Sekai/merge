@@ -33,7 +33,6 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-3d-audio-variant-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-exrwav-movie-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-llvm-mingw-dx12-4.3
-merge groups-staging-4.3 remotes/v-sekai-godot/mikktspace-optimization
 merge groups-staging-4.3 remotes/BastiaanOlij/skip_present_if_needed
 merge groups-staging-4.3 remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.3 remotes/Geometror/improve-vs-1
@@ -44,7 +43,6 @@ merge groups-staging-4.3 remotes/adamscott/fix-class-lookup-redux
 merge groups-staging-4.3 remotes/adamscott/fix-file-permissions-web
 merge groups-staging-4.3 remotes/tdaven/tdaven/fix-86427
 merge groups-staging-4.3 remotes/v-sekai-godot/llvm-mingw-qitabent
-merge groups-staging-4.3 remotes/clayjohn/GLTF-binormal-sign
 merge groups-staging-4.3 remotes/TokageItLab/animation-post-processable
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-release-4.2
