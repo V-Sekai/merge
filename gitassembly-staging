@@ -45,6 +45,7 @@ merge groups-staging-4.3 remotes/tdaven/tdaven/fix-86427
 merge groups-staging-4.3 remotes/v-sekai-godot/llvm-mingw-qitabent
 merge groups-staging-4.3 remotes/TokageItLab/animation-post-processable
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-many-bone-ik-4.3
+merge groups-staging-4.3 remotes/Malcolmnixon/xr-body-hips-height
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-release-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/resource-importer-scenecrash-fix

@@ -54,6 +54,7 @@ add_remote tdaven https://github.com/tdaven/godot.git
 add_remote aaronfranke https://github.com/aaronfranke/godot.git
 add_remote shana https://github.com/shana/godot.git
 add_remote reduz https://github.com/reduz/godot.git
+add_remote Malcolmnixon https://github.com/Malcolmnixon/godot.git
 #
 
 merge_branch () {
