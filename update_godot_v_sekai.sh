@@ -43,7 +43,6 @@ add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 add_remote nikitalita https://github.com/nikitalita/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
 add_remote haasanen https://github.com/haasanen/godot.git
-add_remote clayjohn https://github.com/clayjohn/godot.git
 add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 add_remote tdaven https://github.com/tdaven/godot.git
 #
