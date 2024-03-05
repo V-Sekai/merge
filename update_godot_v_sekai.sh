@@ -43,18 +43,9 @@ add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 add_remote nikitalita https://github.com/nikitalita/godot.git
 add_remote Geometror https://github.com/Geometror/godot.git
 add_remote haasanen https://github.com/haasanen/godot.git
-add_remote TokageItLab https://github.com/TokageItLab/godot.git
 add_remote clayjohn https://github.com/clayjohn/godot.git
-add_remote adamscott https://github.com/adamscott/godot.git
 add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
-add_remote DarioSamo https://github.com/DarioSamo/godot.git
-add_remote bitsawer https://github.com/bitsawer/godot.git
-add_remote Riteo https://github.com/Riteo/godot.git
 add_remote tdaven https://github.com/tdaven/godot.git
-add_remote aaronfranke https://github.com/aaronfranke/godot.git
-add_remote shana https://github.com/shana/godot.git
-add_remote reduz https://github.com/reduz/godot.git
-add_remote Malcolmnixon https://github.com/Malcolmnixon/godot.git
 #
 
 merge_branch () {

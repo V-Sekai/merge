@@ -41,10 +41,7 @@ merge groups-staging-4.3 remotes/nikitalita/fix-mesh-convert
 merge groups-staging-4.3 remotes/Geometror/improve-vs-1
 merge groups-staging-4.3 remotes/haasanen/fix_physics_thread_race_condition
 merge groups-staging-4.3 remotes/clayjohn/mesh-aabb
-merge groups-staging-4.3 remotes/adamscott/fix-class-lookup-redux
-merge groups-staging-4.3 remotes/adamscott/fix-file-permissions-web
 merge groups-staging-4.3 remotes/tdaven/tdaven/fix-86427
-merge groups-staging-4.3 remotes/Malcolmnixon/xr-body-hips-height
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-realtime-retarget-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/vsk-release-4.2
 # merge groups-staging-4.3 remotes/v-sekai-godot/resource-importer-scenecrash-fix
