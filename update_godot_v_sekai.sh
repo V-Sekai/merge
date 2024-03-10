@@ -45,6 +45,7 @@ add_remote Geometror https://github.com/Geometror/godot.git
 add_remote haasanen https://github.com/haasanen/godot.git
 add_remote BastiaanOlij https://github.com/BastiaanOlij/godot.git
 add_remote tdaven https://github.com/tdaven/godot.git
+add_remote lyuma https://github.com/lyuma/godot.git
 #
 
 merge_branch () {
