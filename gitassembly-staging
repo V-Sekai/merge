@@ -34,10 +34,8 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-lasso-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-ipados-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-speech-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/pre-commit-hang
-merge groups-staging-4.3 remotes/v-sekai-godot/retarget_silhouette_template
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-custom-editor-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/android-fix
-merge groups-staging-4.3 remotes/v-sekai-godot/import_rest_as_reset
 merge groups-staging-4.3 remotes/lyuma/gltf_export_float_snap
 merge groups-staging-4.3 remotes/BastiaanOlij/skip_present_if_needed
 merge groups-staging-4.3 remotes/nikitalita/fix-save-as-binary
