@@ -35,6 +35,7 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-ipados-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-speech-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-custom-editor-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/remove-copyright-formatting
+merge groups-staging-4.3 remotes/v-sekai-godot/vsk-gi-hdda-4.3
 merge groups-staging-4.3 remotes/bruvzg/ed_native_fd2
 merge groups-staging-4.3 remotes/lyuma/gltf_export_float_snap
 merge groups-staging-4.3 remotes/BastiaanOlij/skip_present_if_needed
