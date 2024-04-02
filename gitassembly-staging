@@ -7,7 +7,6 @@ merge groups-staging-4.3 remotes/v-sekai-godot/empty-space-collide-crash
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-light-mapper-crashes
 merge groups-staging-4.3 remotes/v-sekai-godot/gradient-crash
 merge groups-staging-4.3 remotes/v-sekai-godot/default-obj-scene
-merge groups-staging-4.3 remotes/v-sekai-godot/move_pre_render
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-xr-error-spam
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-anim-crash
 merge groups-staging-4.3 remotes/v-sekai-godot/prevent_advanced_reimport
@@ -37,9 +36,11 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-custom-editor-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/remove-copyright-formatting
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-gi-hdda-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-bone-map-infinite-loop
+merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libdatachannel-4.3
 merge groups-staging-4.3 remotes/bruvzg/ed_native_fd2
 merge groups-staging-4.3 remotes/lyuma/gltf_export_float_snap
 merge groups-staging-4.3 remotes/BastiaanOlij/skip_present_if_needed
+merge groups-staging-4.3 remotes/BastiaanOlij/openxr_reorder_wait_frame
 merge groups-staging-4.3 remotes/nikitalita/fix-save-as-binary
 merge groups-staging-4.3 remotes/Geometror/improve-vs-1
 merge groups-staging-4.3 remotes/haasanen/fix_physics_thread_race_condition
