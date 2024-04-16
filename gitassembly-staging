@@ -34,7 +34,6 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-speech-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-custom-editor-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/remove-copyright-formatting
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-bone-map-infinite-loop
-merge groups-staging-4.3 remotes/v-sekai-godot/lock-primary-base-influence
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-scons-final-4.3
 merge groups-staging-4.3 remotes/bqqbarbhg/texture-path-fix
 merge groups-staging-4.3 remotes/bruvzg/ed_native_fd2
