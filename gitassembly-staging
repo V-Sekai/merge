@@ -34,6 +34,7 @@ merge groups-staging-4.3 remotes/v-sekai-godot/avoid-bone-map-infinite-loop
 merge groups-staging-4.3 remotes/v-sekai-godot/smaller-csg-snap
 merge groups-staging-4.3 remotes/v-sekai-godot/mingw-error
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libdatachannel-4.3
+merge groups-staging-4.3 remotes/timothyqiu/cam-preview
 merge groups-staging-4.3 remotes/bruvzg/ed_native_fd2
 merge groups-staging-4.3 remotes/lyuma/gltf_export_float_snap
 merge groups-staging-4.3 remotes/BastiaanOlij/skip_present_if_needed
