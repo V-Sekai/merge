@@ -32,7 +32,6 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-lasso-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-speech-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libgodot-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/avoid-bone-map-infinite-loop
-merge groups-staging-4.3 remotes/v-sekai-godot/smaller-csg-snap
 merge groups-staging-4.3 remotes/v-sekai-godot/mingw-error
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libdatachannel-4.3
 merge groups-staging-4.3 remotes/timothyqiu/cam-preview
