@@ -29,13 +29,9 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-flac-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-renik-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-lasso-4.2
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-speech-4.3
-merge groups-staging-4.3 remotes/v-sekai-godot/avoid-bone-map-infinite-loop
-merge groups-staging-4.3 remotes/v-sekai-godot/mingw-error
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libdatachannel-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-csg-4.3
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-betsy-bc6-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-desync-4.3
-merge groups-staging-4.3 remotes/v-sekai-godot/mikkspace-overflow
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-goal-task-planner-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-subdiv-4.3
 merge groups-staging-4.3 remotes/bruvzg/ed_native_fd2
