@@ -1,7 +1,5 @@
 # README
 
-## Standard operating procedure
-
 1. Fetch this repository
 1. Ensure git email and name are setup.
 1. On Windows use msys2.
