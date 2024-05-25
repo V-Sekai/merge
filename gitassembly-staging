@@ -35,7 +35,7 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-desync-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-goal-task-planner-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-subdiv-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-mvsqlite-4.3
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-csg-gltf-export-4.3
+merge groups-staging-4.3 remotes/v-sekai-godot/vsk-csg-gltf-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/scene_reload_crashfix_2
 merge groups-staging-4.3 remotes/clayjohn/LOD-fixes
 merge groups-staging-4.3 remotes/bruvzg/ed_native_fd2
