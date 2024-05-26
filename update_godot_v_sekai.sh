@@ -52,6 +52,7 @@ add_remote bqqbarbhg https://github.com/bqqbarbhg/godot.git
 add_remote timothyqiu https://github.com/timothyqiu/godot.git
 add_remote clayjohn https://github.com/clayjohn/godot.git
 add_remote Repiteo https://github.com/Repiteo/godot.git
+add_remote stuartcarnie https://github.com/stuartcarnie/godot.git
 #
 
 merge_branch () {
