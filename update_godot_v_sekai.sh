@@ -38,9 +38,7 @@ add_remote ()
 }
 
 #
-add_remote godotengine https://github.com/godotengine/godot
 add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
-add_remote lyuma https://github.com/lyuma/godot.git
 #
 
 merge_branch () {
