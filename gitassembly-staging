@@ -1,4 +1,4 @@
-stage groups-staging-4.3 remotes/godotengine/master
+stage groups-staging-4.3 remotes/godotengine/a4f2ea91a1bd18f70a43ff4c1377db49b56bc3f0
 merge groups-staging-4.3 remotes/v-sekai-godot/import-crash
 merge groups-staging-4.3 remotes/v-sekai-godot/expose_post_popup
 merge groups-staging-4.3 remotes/v-sekai-godot/scene_tree_disable_drop_above_root
