@@ -18,4 +18,3 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-goal-task-planner-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-subdiv-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-mvsqlite-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-override-projection-4.3-beta1
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-libgodot-4.3
