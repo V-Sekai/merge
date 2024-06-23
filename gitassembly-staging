@@ -1,5 +1,5 @@
 stage groups-staging-4.3 remotes/v-sekai-godot/4.3-beta1
-merge groups-staging-4.3 remotes/v-sekai-godot/implement_double_precision_for_world_triplanar
+merge groups-staging-4.3 remotes/v-sekai-godot/vsk-implement-double-precision-for-world-triplanar-4.3-beta1
 merge groups-staging-4.3 remotes/v-sekai-godot/resource_loader_whitelist_4.3 
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vertex-indices
