@@ -17,4 +17,3 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-loghook-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-make-local-recursively-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-raycast-opt-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-optimize-mikktspace-4.3
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-wasgo-4.3
