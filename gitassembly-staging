@@ -5,7 +5,7 @@ merge groups-staging-4.3 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vertex-indices
 merge groups-staging-4.3 remotes/v-sekai-godot/add-editor-info
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-json-to-native-4.3
-merge groups-staging-4.3 remotes/v-sekai-godot/vsk-3d-audio-variant-4.3
+merge groups-staging-4.3 remotes/v-sekai-godot/vsk-3d-audio-4.3-beta3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-renik-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-lasso-4.3
 merge groups-staging-4.3 remotes/v-sekai-godot/vsk-speech-4.3
