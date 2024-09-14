@@ -40,6 +40,7 @@ add_remote ()
 #
 add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 add_remote beicause https://github.com/beicause/godot.git
+add_remote godotengine https://github.com/godotengine/godot.git
 #
 
 merge_branch () {
