@@ -1,7 +1,8 @@
 stage groups-staging-4.4 remotes/godotengine/master
 #merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-audio-variant-4.3
 merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4
-#merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-many-bone-ik-4.4
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lasso-4.3
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-speech-4.3
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-goal-task-planner-4.3
@@ -10,7 +11,6 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3
 merge groups-staging-4.4 remotes/v-sekai-godot/vertex-indices
 merge groups-staging-4.4 remotes/v-sekai-godot/add-editor-info
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-exrwav-movie-4.3
-#merge groups-staging-4.4 remotes/v-sekai-godot/vsk-many-bone-ik-4.4
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.3
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4
 #merge groups-staging-4.4 remotes/v-sekai-godot/vsk-subdiv-4.3
