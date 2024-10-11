@@ -21,4 +21,6 @@ git config --global user.name "K. S. Ernest (iFire) Lee"
 git config --global user.email "ernest.lee@chibifire.com"
 mkdir -p ~/.ssh
 ssh-keyscan github.com >> ~/.ssh/known_hosts
+git clone https://github.com/ingydotnet/git-subrepo ~/git-subrepo
+echo 'source ~/git-subrepo/.rc' >> ~/.bashrc
 ```
