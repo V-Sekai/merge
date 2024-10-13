@@ -25,3 +25,5 @@ merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4
 # Yuyucat wants to make an anime style VR RPG in V-Sekai
 # But voxel module is broken when tests=yes.
 # merge groups-staging-4.4 remotes/v-sekai-godot/vsk-voxel-4.4
+# Tokage wants to fix modifiers
+merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier
