@@ -20,8 +20,6 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-manifold-update-4.3
 merge groups-staging-4.4 remotes/v-sekai-godot/revert-gdscript-reload-4.4
 merge groups-staging-4.4 remotes/beicause/lottie
-# Merge fix for vrm
-merge groups-staging-4.4 remotes/v-sekai-godot/GODOT_rest_transform
 merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4
 # Yuyucat wants to make an anime style VR RPG in V-Sekai
 # But voxel module is broken when tests=yes.
