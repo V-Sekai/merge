@@ -45,6 +45,7 @@ add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 merge_branch () {
     git checkout $ORIGINAL_BRANCH --force
     git branch -D $MERGE_BRANCH || true
+	curl -O -o ./thirdparty/git-assembler -L https://github.com/V-Sekai/merge/raw/refs/heads/main/thirdparty/git-assembler
     python3 ./thirdparty/git-assembler -av --recreate --config gitassembly
     git checkout $MERGE_BRANCH -f
     export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
