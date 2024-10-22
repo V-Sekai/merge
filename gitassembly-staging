@@ -18,7 +18,6 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4
 #merge groups-staging-4.4 remotes/v-sekai-godot/vsk-override-projection-4.3-beta1
 #merge groups-staging-4.4 remotes/v-sekai-godot/vsk-loghook-4.3
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-manifold-update-4.3
-merge groups-staging-4.4 remotes/v-sekai-godot/revert-gdscript-reload-4.4
 merge groups-staging-4.4 remotes/beicause/lottie
 merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4
 # Yuyucat wants to make an anime style VR RPG in V-Sekai
