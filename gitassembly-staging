@@ -27,3 +27,5 @@ merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4
 merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier
 merge groups-staging-4.4 remotes/nikitalita/fix-missing-resources
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-desync-4.4
+# Implement "legs" for vr. We have some vr implementations of tracked upper body ik, but only a prototype for the lower body
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4
