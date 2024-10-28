@@ -29,3 +29,5 @@ merge groups-staging-4.4 remotes/nikitalita/fix-missing-resources
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-desync-4.4
 # Implement "legs" for vr. We have some vr implementations of tracked upper body ik, but only a prototype for the lower body
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4
+# The newer version bump is needed to link the macos build.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-bump-minmum-macos-build
