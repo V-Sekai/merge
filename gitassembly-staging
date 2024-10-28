@@ -1,3 +1,4 @@
+stage groups-staging-4.4 remotes/v-sekai-godot/master
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-bump-minmum-macos-build  # Ensures compatibility with newer macOS versions, important for users on the latest hardware in social VR environments.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4  # Enhances character animation realism in VR, improving social interaction through more lifelike movements.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-desync-4.4  # Addresses synchronization issues in multiplayer VR, crucial for a seamless social experience.
