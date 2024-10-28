@@ -1,33 +1,20 @@
-stage groups-staging-4.4 remotes/v-sekai-godot/master
-#merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-audio-variant-4.3
-merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-many-bone-ik-4.4
-# Used for XR user interfaces
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lasso-4.4
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-speech-4.3
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-goal-task-planner-4.3
-#merge groups-staging-4.4 remotes/v-sekai-godot/vsk-implement-double-precision-for-world-triplanar-4.3-beta2
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3
-merge groups-staging-4.4 remotes/v-sekai-godot/vertex-indices
-merge groups-staging-4.4 remotes/v-sekai-godot/add-editor-info
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-exrwav-movie-4.3
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.3
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4
-#merge groups-staging-4.4 remotes/v-sekai-godot/vsk-subdiv-4.3
-#merge groups-staging-4.4 remotes/v-sekai-godot/vsk-override-projection-4.3-beta1
-#merge groups-staging-4.4 remotes/v-sekai-godot/vsk-loghook-4.3
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-manifold-update-4.3
-merge groups-staging-4.4 remotes/beicause/lottie
-merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4
-# Yuyucat wants to make an anime style VR RPG in V-Sekai
-# But voxel module is broken when tests=yes.
-# merge groups-staging-4.4 remotes/v-sekai-godot/vsk-voxel-4.4
-# Tokage wants to fix modifiers
-merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier
-merge groups-staging-4.4 remotes/nikitalita/fix-missing-resources
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-desync-4.4
-# Implement "legs" for vr. We have some vr implementations of tracked upper body ik, but only a prototype for the lower body
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4
-# The newer version bump is needed to link the macos build.
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-bump-minmum-macos-build
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-bump-minmum-macos-build  # Ensures compatibility with newer macOS versions, important for users on the latest hardware in social VR environments.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4  # Enhances character animation realism in VR, improving social interaction through more lifelike movements.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-desync-4.4  # Addresses synchronization issues in multiplayer VR, crucial for a seamless social experience.
+merge groups-staging-4.4 remotes/nikitalita/fix-missing-resources  # Fixes bugs that could disrupt user experience in VR environments by ensuring all resources are correctly loaded.
+merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier  # Improves avatar customization in VR, allowing for more personalized social interactions.
+merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4  # Important for server-side operations in VR platforms, affecting content creation and management.
+merge groups-staging-4.4 remotes/beicause/lottie  # Integrates Lottie animations, enhancing UI/UX in social VR applications.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-manifold-update-4.3  # Updates constructive solid geometry, key for creating complex models in social VR spaces.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4  # Implements WebRTC data channels, essential for real-time communication in VR.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.3  # Adds FLAC audio support, improving sound quality in VR environments.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-exrwav-movie-4.3  # Supports enhanced audio and video formats, crucial for media-rich social VR experiences.
+merge groups-staging-4.4 remotes/v-sekai-godot/add-editor-info  # Provides more information in the editor, aiding developers in creating VR content.
+merge groups-staging-4.4 remotes/v-sekai-godot/vertex-indices  # Optimizes rendering processes, important for performance in VR.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3  # Enhances texture handling, improving visual fidelity in VR scenes.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-goal-task-planner-4.3  # Introduces AI task planning, useful for NPC behaviors in social VR.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-speech-4.3  # Implements speech processing capabilities, enhancing communication in VR.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lasso-4.4  # Adds lasso tool for object interaction in VR, useful for user interfaces.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-many-bone-ik-4.4  # Improves inverse kinematics for complex skeletons, crucial for realistic avatars in social VR.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4  # Updates the RenIK system for better skeletal animation, enhancing avatar realism.
+merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4  # Secures resource loading, important for maintaining integrity in social VR platforms.
