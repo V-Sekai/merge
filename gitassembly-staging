@@ -19,4 +19,4 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-many-bone-ik-4.4  # Improves 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4  # Updates the RenIK system for better skeletal animation, enhancing avatar realism.
 merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4  # Secures resource loading, important for maintaining integrity in social VR platforms.
 # The newer version bump is needed to link the macos build.
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-bump-minmum-macos-build
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-macos-version-4.4
