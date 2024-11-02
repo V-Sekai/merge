@@ -1,4 +1,5 @@
 stage groups-staging-4.4 remotes/godotengine/master
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4  # Enhances character animation realism in VR, improving social interaction through more lifelike movements.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-desync-4.4  # Addresses synchronization issues in multiplayer VR, crucial for a seamless social experience.
 merge groups-staging-4.4 remotes/nikitalita/fix-missing-resources  # Fixes bugs that could disrupt user experience in VR environments by ensuring all resources are correctly loaded.
 merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier  # Improves avatar customization in VR, allowing for more personalized social interactions.
