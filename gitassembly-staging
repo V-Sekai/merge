@@ -17,3 +17,4 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lasso-4.4  # Adds lasso tool 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-many-bone-ik-4.4  # Improves inverse kinematics for complex skeletons, crucial for realistic avatars in social VR.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4  # Updates the RenIK system for better skeletal animation, enhancing avatar realism.
 merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4  # Secures resource loading, important for maintaining integrity in social VR platforms.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-subdiv-4.4 # Used to increase detail in existing mesh work.
