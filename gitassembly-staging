@@ -5,7 +5,6 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4  # Enhanc
 merge groups-staging-4.4 remotes/nikitalita/fix-missing-resources  # Fixes bugs that could disrupt user experience in VR environments by ensuring all resources are correctly loaded.
 merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier  # Improves avatar customization in VR, allowing for more personalized social interactions.
 merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4  # Important for server-side operations in VR platforms, affecting content creation and management.
-merge groups-staging-4.4 remotes/beicause/lottie  # Integrates Lottie animations, enhancing UI/UX in social VR applications.
 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-manifold-update-4.3  # Updates constructive solid geometry, key for creating complex models in social VR spaces.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4  # Implements WebRTC data channels, essential for real-time communication in VR.
