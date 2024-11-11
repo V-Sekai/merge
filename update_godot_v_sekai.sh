@@ -44,6 +44,7 @@ add_remote godotengine https://github.com/godotengine/godot.git
 add_remote TokageItLab https://github.com/TokageItLab/godot.git
 add_remote nikitalita https://github.com/nikitalita/godot.git
 add_remote YeldhamDev https://github.com/YeldhamDev/godot.git
+add_remote bruvzg https://github.com/bruvzg/godot.git
 #
 
 merge_branch () {
