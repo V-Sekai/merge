@@ -2,11 +2,11 @@ stage groups-staging-4.4 remotes/godotengine/master
 
 merge groups-staging-4.4 remotes/YeldhamDev/out_all_of_you # In large scenes (and especially in the remote tree), showing nodes that match the filter with parents that do not can be annoying if multiple results are from different hierarchies, as this creates unnecessary pollution. This PR adds a toggle in the menu of the "SceneTree" dock to hide those parents, purely showing only matched nodes.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4  # Enhances character animation realism in VR, improving social interaction through more lifelike movements.
-merge groups-staging-4.4 remotes/nikitalita/fix-missing-resources  # Fixes bugs that could disrupt user experience in VR environments by ensuring all resources are correctly loaded.
 merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier  # Improves avatar customization in VR, allowing for more personalized social interactions.
 merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4  # Important for server-side operations in VR platforms, affecting content creation and management.
 merge groups-staging-4.4 remotes/beicause/lottie  # Integrates Lottie animations, enhancing UI/UX in social VR applications.
 merge groups-staging-4.4 remotes/bruvzg/propkey_rename # Mingw regression
+merge groups-staging-4.4 remotes/KoBeWi/uideal_scenario # Handle scene UIDs in MultiplayerSpawner
 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-manifold-update-4.3  # Updates constructive solid geometry, key for creating complex models in social VR spaces.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4  # Implements WebRTC data channels, essential for real-time communication in VR.
