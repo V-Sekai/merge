@@ -22,3 +22,4 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4  # Updates the RenI
 merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4  # Secures resource loading, important for maintaining integrity in social VR platforms.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-sqlite-4.4 # Store data in relational ways.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-llvm-pdb-4.4 # Generate pdb with llvm-mingw
+merge groups-staging-4.4 remotes/mihe/jolt-physics # Add jolt physics module.
