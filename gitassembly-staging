@@ -7,6 +7,7 @@ merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4  # Import
 merge groups-staging-4.4 remotes/beicause/lottie  # Integrates Lottie animations, enhancing UI/UX in social VR applications.
 merge groups-staging-4.4 remotes/bruvzg/propkey_rename # Mingw regression
 merge groups-staging-4.4 remotes/GuilhermeGSousa/animation-node-extension # Animation Node for gdextension
+merge groups-staging-4.4 remotes/mihe/jolt-physics # Add jolt physics module.
 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-libdatachannel-4.4  # Implements WebRTC data channels, essential for real-time communication in VR.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.4  # Adds FLAC audio support, improving sound quality in VR environments.
@@ -22,5 +23,4 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4  # Updates the RenI
 merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4  # Secures resource loading, important for maintaining integrity in social VR platforms.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-sqlite-4.4 # Store data in relational ways.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-llvm-pdb-4.4 # Generate pdb with llvm-mingw
-merge groups-staging-4.4 remotes/mihe/jolt-physics # Add jolt physics module.
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-deprecate-snap # Deprecate snap in csg.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-error-and-ctd # Avoid csg error and crash to desktop
