@@ -7,6 +7,7 @@ merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4  # Import
 merge groups-staging-4.4 remotes/bruvzg/propkey_rename # Mingw regression
 merge groups-staging-4.4 remotes/GuilhermeGSousa/animation-node-extension # Animation Node for gdextension
 merge groups-staging-4.4 remotes/mihe/jolt-physics # Add jolt physics module.
+merge groups-staging-4.4 remotes/Lielay9/mend-round-primitives # Fix csg
 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.4  # Adds FLAC audio support, improving sound quality in VR environments.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-exrwav-movie-4.3  # Supports enhanced audio and video formats, crucial for media-rich social VR experiences.
