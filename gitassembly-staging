@@ -21,3 +21,4 @@ merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4  # 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-sqlite-4.4 # Store data in relational ways.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-llvm-pdb-4.4 # Generate pdb with llvm-mingw
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-speech-4.4 # Restore speech.
+merge groups-staging-4.4 remotes/v-sekai-godot/vsk-csg-warning-4.4
