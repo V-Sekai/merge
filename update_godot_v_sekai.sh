@@ -48,6 +48,7 @@ add_remote bruvzg https://github.com/bruvzg/godot.git
 add_remote KoBeWi https://github.com/KoBeWi/godot.git
 add_remote GuilhermeGSousa https://github.com/GuilhermeGSousa/godot.git
 add_remote mihe https://github.com/mihe/godot.git
+add_remote smix8 https://github.com/smix8/godot.git
 #
 
 merge_branch () {
