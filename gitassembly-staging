@@ -9,7 +9,7 @@ merge groups-staging-4.4 remotes/bruvzg/propkey_rename # Mingw regression
 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.4  # Adds FLAC audio support, improving sound quality in VR environments.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-exrwav-movie-4.3  # Supports enhanced audio and video formats, crucial for media-rich social VR experiences.
-# merge groups-staging-4.4 remotes/v-sekai-godot/add-editor-info  # Provides more information in the editor, aiding developers in creating VR content.
+merge groups-staging-4.4 remotes/v-sekai-godot/add-editor-info  # Provides more information in the editor, aiding developers in creating VR content.
 merge groups-staging-4.4 remotes/v-sekai-godot/vertex-indices  # Optimizes rendering processes, important for performance in VR.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3  # Enhances texture handling, improving visual fidelity in VR scenes.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-goal-task-planner-4.3  # Introduces AI task planning, useful for NPC behaviors in social VR.
