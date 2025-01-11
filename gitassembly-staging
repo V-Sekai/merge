@@ -1,6 +1,5 @@
 stage groups-staging-4.4 remotes/godotengine/master
 
-merge groups-staging-4.4 remotes/YeldhamDev/out_all_of_you # In large scenes (and especially in the remote tree), showing nodes that match the filter with parents that do not can be annoying if multiple results are from different hierarchies, as this creates unnecessary pollution. This PR adds a toggle in the menu of the "SceneTree" dock to hide those parents, purely showing only matched nodes.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4  # Enhances character animation realism in VR, improving social interaction through more lifelike movements.
 merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier  # Improves avatar customization in VR, allowing for more personalized social interactions.
 merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4  # Important for server-side operations in VR platforms, affecting content creation and management.
