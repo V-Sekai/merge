@@ -4,7 +4,6 @@ merge groups-staging-4.4 remotes/beicause/lottie  # Integrates Lottie animations
 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.4  # Adds FLAC audio support, improving sound quality in VR environments.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-exrwav-movie-4.3  # Supports enhanced audio and video formats
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-add-editor-info-4.4  # Provides more information in the editor
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3  # Enhances texture handling, improving visual fidelity in VR scenes.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-goal-task-planner-4.3  # Introduces AI task planning, useful for NPC behaviors in social VR.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-speech-4.4  # Implements speech processing capabilities, enhancing communication in VR.
