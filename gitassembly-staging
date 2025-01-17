@@ -1,7 +1,6 @@
 stage groups-staging-4.4 remotes/godotengine/master
 
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-motion-matching-4.4  # Enhances character animation realism in VR, improving social interaction through more lifelike movements.
-merge groups-staging-4.4 remotes/TokageItLab/retarget-modifier  # Improves avatar customization in VR, allowing for more personalized social interactions.
 merge groups-staging-4.4 remotes/v-sekai-godot/fix-headless-import-4.4  # Important for server-side operations in VR platforms, affecting content creation and management.
 merge groups-staging-4.4 remotes/beicause/lottie  # Integrates Lottie animations, enhancing UI/UX in social VR applications.
 merge groups-staging-4.4 remotes/bruvzg/propkey_rename # Mingw regression
