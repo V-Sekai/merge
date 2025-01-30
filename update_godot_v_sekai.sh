@@ -58,7 +58,7 @@ merge_branch () {
 	git checkout $MERGE_BRANCH -f
 	export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 	if [[ $DRY_RUN -eq 0 ]]; then
-		git commit --allow-empty -m "Merge branch '$MERGE_BRANCH' [skip ci]"
+		git commit --allow-empty -m "Merge branch '$MERGE_BRANCH'"
 		git push $MERGE_REMOTE $MERGE_BRANCH -f
 	fi
 	git checkout $ORIGINAL_BRANCH --force
