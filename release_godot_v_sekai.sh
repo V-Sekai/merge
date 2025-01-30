@@ -50,7 +50,7 @@ merge_branch () {
     export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
     export MERGE_TAG=$(echo $MERGE_BRANCH.$MERGE_DATE | tr ':' ' ' | tr -d ' \t\n\r')
     if [[ $DRY_RUN -eq 0 ]]; then
-        git tag -a $MERGE_TAG -m "Commited at $MERGE_DATE."
+        git tag -a $MERGE_TAG -m "Commited at $MERGE_DATE. [skip ci]"
         git push $MERGE_REMOTE $MERGE_TAG
         git push $MERGE_REMOTE $MERGE_BRANCH -f
     fi
