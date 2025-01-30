@@ -43,23 +43,24 @@ add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
 
 
 merge_branch () {
-    git checkout $ORIGINAL_BRANCH --force
-    git branch -D $MERGE_BRANCH || true
-    python3 ./thirdparty/git-assembler -av --recreate --config gitassembly
-    git checkout $MERGE_BRANCH -f
-    export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-    export MERGE_TAG=$(echo $MERGE_BRANCH.$MERGE_DATE | tr ':' ' ' | tr -d ' \t\n\r')
-    if [[ $DRY_RUN -eq 0 ]]; then
-        git tag -a $MERGE_TAG -m "Commited at $MERGE_DATE."
-        git push $MERGE_REMOTE $MERGE_TAG
-        git push $MERGE_REMOTE $MERGE_BRANCH -f
-    fi
-    git checkout $ORIGINAL_BRANCH --force
-    if [[ $DRY_RUN -eq 0 ]]; then
-        git branch -D $MERGE_BRANCH || true
-    else
-        echo "$MERGE_BRANCH was created and is ready to push."
-    fi
+	git checkout $ORIGINAL_BRANCH --force
+	git branch -D $MERGE_BRANCH || true
+	python3 ./thirdparty/git-assembler -av --recreate --config gitassembly
+	git checkout $MERGE_BRANCH -f
+	export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+	export MERGE_TAG=$(echo $MERGE_BRANCH.$MERGE_DATE | tr ':' ' ' | tr -d ' \t\n\r')
+	git commit --allow-empty -m "Merge branch '$MERGE_BRANCH' into '$ORIGINAL_BRANCH' [skip ci]"
+	if [[ $DRY_RUN -eq 0 ]]; then
+		git tag -a $MERGE_TAG -m "Commited at $MERGE_DATE."
+		git push $MERGE_REMOTE $MERGE_TAG
+		git push $MERGE_REMOTE $MERGE_BRANCH -f
+	fi
+	git checkout $ORIGINAL_BRANCH --force
+	if [[ $DRY_RUN -eq 0 ]]; then
+		git branch -D $MERGE_BRANCH || true
+	else
+		echo "$MERGE_BRANCH was created and is ready to push."
+	fi
 }
 
 if ! [[ "`git rev-parse --abbrev-ref HEAD`" == "$ORIGINAL_BRANCH" ]]; then
