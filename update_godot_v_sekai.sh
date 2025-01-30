@@ -52,20 +52,21 @@ add_remote smix8 https://github.com/smix8/godot.git
 #
 
 merge_branch () {
-    git checkout $ORIGINAL_BRANCH --force
-    git branch -D $MERGE_BRANCH || true
-    python3 ./thirdparty/git-assembler -av --recreate --config gitassembly-staging
-    git checkout $MERGE_BRANCH -f
-    export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-    if [[ $DRY_RUN -eq 0 ]]; then
-        git push $MERGE_REMOTE $MERGE_BRANCH -f
-    fi
-    git checkout $ORIGINAL_BRANCH --force
-    if [[ $DRY_RUN -eq 0 ]]; then
-        git branch -D $MERGE_BRANCH || true
-    else
-        echo "$MERGE_BRANCH was created and is ready to push."
-    fi
+	git checkout $ORIGINAL_BRANCH --force
+	git branch -D $MERGE_BRANCH || true
+	python3 ./thirdparty/git-assembler -av --recreate --config gitassembly-staging
+	git checkout $MERGE_BRANCH -f
+	export MERGE_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+	if [[ $DRY_RUN -eq 0 ]]; then
+		git commit --allow-empty -m "Merging changes [skip ci]"
+		git push $MERGE_REMOTE $MERGE_BRANCH -f
+	fi
+	git checkout $ORIGINAL_BRANCH --force
+	if [[ $DRY_RUN -eq 0 ]]; then
+		git branch -D $MERGE_BRANCH || true
+	else
+		echo "$MERGE_BRANCH was created and is ready to push."
+	fi
 }
 
 if ! [[ "`git rev-parse --abbrev-ref HEAD`" == "$ORIGINAL_BRANCH" ]]; then
