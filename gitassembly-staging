@@ -9,7 +9,6 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-goal-task-planner-4.4 # Intro
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-speech-4.4 # Implements speech processing capabilities, enhancing communication in VR.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lasso-4.4 # Adds lasso tool for object interaction in VR, useful for user interfaces.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-renik-4.4 # Updates the RenIK system for better skeletal animation, enhancing avatar realism.
-merge groups-staging-4.4 remotes/v-sekai-godot/resource_loader_whitelist_4.4 # Secures resource loading, important for maintaining integrity in social VR platforms.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-sqlite-4.4 # Store data in relational ways.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-llvm-pdb-4.4 # Generate pdb with llvm-mingw
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lbfgs-4.4 # L-BFGSB (Limited-memory Broyden-Fletcher-Goldfarb-Shanno with Bounds) is a variant of the L-BFGS optimization algorithm that supports bound constraints. It is not as robust as L-BFGS and has a time complexity of O(N\*M), where N is the number of variables and M is the number of iterations.
