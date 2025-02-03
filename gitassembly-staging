@@ -15,3 +15,4 @@ merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lbfgs-4.4 # L-BFGSB (Limited-
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-subdiv-4.4 # Subdivision in Godot with opensubdiv
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-save-dds-4.4 # Save dds
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-fbx-runtime-import-4.5 # Add FBXDocumentExtension for runtime import
+merge groups-staging-4.4 remotes/v-sekai-godot/resource-loader-whitelist-prev-4.4
