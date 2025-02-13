@@ -39,16 +39,7 @@ add_remote ()
 
 #
 add_remote v-sekai-godot https://github.com/V-Sekai/godot.git
-add_remote beicause https://github.com/beicause/godot.git
 add_remote godotengine https://github.com/godotengine/godot.git
-add_remote TokageItLab https://github.com/TokageItLab/godot.git
-add_remote nikitalita https://github.com/nikitalita/godot.git
-add_remote YeldhamDev https://github.com/YeldhamDev/godot.git
-add_remote bruvzg https://github.com/bruvzg/godot.git
-add_remote KoBeWi https://github.com/KoBeWi/godot.git
-add_remote GuilhermeGSousa https://github.com/GuilhermeGSousa/godot.git
-add_remote mihe https://github.com/mihe/godot.git
-add_remote smix8 https://github.com/smix8/godot.git
 #
 
 merge_branch () {
