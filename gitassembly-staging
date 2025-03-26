@@ -1,6 +1,6 @@
 stage groups-staging-4.4 remotes/godotengine/master
 
-merge groups-staging-4.4 remotes/v-sekai-godot/vsk-lottie-4.5 # Integrates Lottie animations, enhancing UI/UX in social VR applications.
+merge groups-staging-4.4 remotes/beicause/lottie # Integrates Lottie animations, enhancing UI/UX in social VR applications.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-3d-texture-alpha-4.3 # Enhances texture handling, improving visual fidelity in VR scenes.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-flac-4.4 # Adds FLAC audio support, improving sound quality in VR environments.
 merge groups-staging-4.4 remotes/v-sekai-godot/vsk-exrwav-movie-4.4 # Supports enhanced audio and video formats
