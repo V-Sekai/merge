@@ -4,7 +4,7 @@ set -e
 
 ORIGINAL_BRANCH=main
 MERGE_REMOTE=v-sekai-godot
-MERGE_BRANCH=groups-4.4
+MERGE_BRANCH=groups-4.5
 DRY_RUN=0
 
 while [[ -n "$1" ]]; do
