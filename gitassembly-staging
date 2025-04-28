@@ -11,7 +11,6 @@ merge groups-staging-4.5 remotes/v-sekai-godot/vsk-sqlite-4.5 # Store data in re
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-llvm-pdb-4.5 # Generate pdb with llvm-mingw
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-lbfgs-4.5 # L-BFGSB (Limited-memory Broyden-Fletcher-Goldfarb-Shanno with Bounds) is a variant of the L-BFGS optimization algorithm that supports bound constraints. It is not as robust as L-BFGS and has a time complexity of O(N\*M), where N is the number of variables and M is the number of iterations.
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-subdiv-4.5 # Subdivision in Godot with opensubdiv
-merge groups-staging-4.5 remotes/v-sekai-godot/vsk-fbx-runtime-import-4.5 # Add FBXDocumentExtension for runtime import
 merge groups-staging-4.5 remotes/v-sekai-godot/resource-loader-whitelist-prev-4.5
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-override-projection-4.5
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-qbo-4.4
