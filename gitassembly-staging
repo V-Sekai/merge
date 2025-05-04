@@ -15,3 +15,4 @@ merge groups-staging-4.5 remotes/v-sekai-godot/resource-loader-whitelist-prev-4.
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-override-projection-4.5
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-qbo-4.4
 merge groups-staging-4.5 remotes/stuartcarnie/macos_embedded
+merge groups-staging-4.5 remotes/PizzaLovers007/play-scheduled
