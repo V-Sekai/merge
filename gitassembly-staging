@@ -13,5 +13,5 @@ merge groups-staging-4.5 remotes/v-sekai-godot/vsk-lbfgs-capsule-4.5 # L-BFGSB (
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-subdiv-4.5 # Subdivision in Godot with opensubdiv
 merge groups-staging-4.5 remotes/v-sekai-godot/resource-loader-whitelist-prev-4.5
 merge groups-staging-4.5 remotes/v-sekai-godot/vsk-override-projection-4.5
-merge groups-staging-4.5 remotes/v-sekai-godot/vsk-qbo-4.4
+merge groups-staging-4.5 remotes/v-sekai-godot/vsk-qbo-4.5
 merge groups-staging-4.5 remotes/PizzaLovers007/play-scheduled
