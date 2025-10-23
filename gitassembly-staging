@@ -11,7 +11,7 @@ merge groups-staging-4.6 remotes/v-sekai-godot/vsk-llvm-pdb-4.5 # Generate pdb w
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-lbfgs-capsule-4.5 # L-BFGSB (Limited-memory Broyden-Fletcher-Goldfarb-Shanno with Bounds) is a variant of the L-BFGS optimization algorithm that supports bound constraints.
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-subdiv-4.5 # Subdivision in Godot with opensubdiv
 merge groups-staging-4.6 remotes/v-sekai-godot/resource-loader-whitelist-prev-4.5
-merge groups-staging-4.6 remotes/v-sekai-godot/vsk-override-projection-4.5
+# merge groups-staging-4.6 remotes/v-sekai-godot/vsk-override-projection-4.5
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-qbo-4.5
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-tapered-capsules-4.5
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-sandbox-4.6
