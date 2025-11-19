@@ -1,6 +1,4 @@
 stage groups-staging-4.6 remotes/v-sekai-godot/master
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-speech-4.6 # Implements speech processing capabilities, enhancing communication in VR.
-merge groups-staging-4.6 remotes/v-sekai-godot/vsk-lasso-4.6 # Adds lasso tool for object interaction in VR, useful for user interfaces.
-merge groups-staging-4.6 remotes/v-sekai-godot/vsk-renik-4.6 # Updates the RenIK system for better skeletal animation, enhancing avatar realism.
 merge groups-staging-4.6 remotes/v-sekai-godot/resource-loader-whitelist-prev-4.5
 # merge groups-staging-4.6 remotes/v-sekai-godot/vsk-override-projection-4.5
