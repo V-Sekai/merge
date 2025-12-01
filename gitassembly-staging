@@ -2,7 +2,7 @@ stage groups-staging-4.6 remotes/v-sekai-godot/master
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-lottie-4.5 # Integrates Lottie animations, enhancing UI/UX in social VR applications.
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-flac-4.5 # Adds FLAC audio support, improving sound quality in VR environments.
 #merge groups-staging-4.6 remotes/v-sekai-godot/vsk-exrwav-movie-4.5 # Supports enhanced audio and video formats
-merge groups-staging-4.6 remotes/v-sekai-godot/vsk-goal-task-planner-4.5 # Introduces AI task planning, useful for NPC behaviors in social VR.
+#merge groups-staging-4.6 remotes/v-sekai-godot/vsk-goal-task-planner-4.5 # Introduces AI task planning, useful for NPC behaviors in social VR.
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-speech-4.6 # Implements speech processing capabilities, enhancing communication in VR.
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-lasso-4.6 # Adds lasso tool for object interaction in VR, useful for user interfaces.
 merge groups-staging-4.6 remotes/v-sekai-godot/vsk-renik-4.6 # Updates the RenIK system for better skeletal animation, enhancing avatar realism.
